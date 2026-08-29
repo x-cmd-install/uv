@@ -1,0 +1,66 @@
+about:
+  description: An extremely fast Python package and project manager, written in Rust.
+  license: Apache-2.0
+  homepage: https://docs.astral.sh/uv
+  head: e454887
+  archived: false
+  latestVersion: 0.12.7
+  collectedAt: 2026-08-29T07:00:23Z
+timeline:
+  created: 2023-10-02
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 89201
+  watcher: 181
+  fork: 3526
+  release: 305
+  contributor: 598
+  pullRequest: 1781
+  issue: 9238
+language:
+  Rust: 18977287
+  Python: 325143
+  Shell: 39207
+  Batchfile: 5848
+  Dockerfile: 5302
+  Nushell: 3979
+  Xonsh: 3849
+  PowerShell: 2885
+  Jupyter Notebook: 2140
+  C: 320
+  RenderScript: 2
+totalLine: 19365962
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 7
+    mergedPR: 294
+    openPR: 89
+    closedIssue: 41
+    openIssue: 44
+    commit: 437
+  last90d:
+    since: 2026-05-31
+    release: 24
+    mergedPR: 1030
+    openPR: 202
+    closedIssue: 128
+    openIssue: 138
+    commit: 1367
+  last180d:
+    since: 2026-03-02
+    release: 47
+    mergedPR: 1694
+    openPR: 288
+    closedIssue: 344
+    openIssue: 317
+    commit: 2130
+  last360d:
+    since: 2025-09-03
+    release: 95
+    mergedPR: 2849
+    openPR: 390
+    closedIssue: 999
+    openIssue: 786
+    commit: 3510
