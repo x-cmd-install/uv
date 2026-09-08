@@ -5,18 +5,18 @@ about:
   head: d28a3ee
   archived: false
   latestVersion: "0.12.10"
-  collectedAt: 2026-09-08T03:20:28Z
+  collectedAt: 2026-09-08T06:11:56Z
 timeline:
   created: 2023-10-02
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 89610
+  star: 89617
   watcher: 187
-  fork: 3553
+  fork: 3554
   release: 308
   contributor: 598
-  pullRequest: 12139
+  pullRequest: 12140
   issue: 9252
 language:
   Rust: 19106959
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-09
     release: 7
     mergedPR: 300
-    openPR: 103
+    openPR: 104
     closedIssue: 37
     openIssue: 29
     commit: 325
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-10
     release: 16
     mergedPR: 747
-    openPR: 185
+    openPR: 186
     closedIssue: 79
     openIssue: 81
     commit: 939
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-10
     release: 25
     mergedPR: 1050
-    openPR: 216
+    openPR: 217
     closedIssue: 127
     openIssue: 121
     commit: 1348
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-12
     release: 48
     mergedPR: 1708
-    openPR: 310
+    openPR: 311
     closedIssue: 331
     openIssue: 291
     commit: 2099
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-13
     release: 95
     mergedPR: 2887
-    openPR: 419
+    openPR: 420
     closedIssue: 969
     openIssue: 751
     commit: 3512
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-18
     release: 100
     mergedPR: 6307
-    openPR: 522
+    openPR: 523
     closedIssue: 4132
     openIssue: 1976
     commit: 6316
 total:
   release: 308
   mergedPR: 10315
-  openPR: 526
+  openPR: 527
   closedIssue: 6892
   openIssue: 2360
   commit: 10374
 ---
 path: /home/runner/.x-repo/github.com/astral-sh/uv
-collectedAt: 2026-09-08T03:21:09Z
+collectedAt: 2026-09-08T06:12:27Z
 loc:
   Rust:
     code: 431678
