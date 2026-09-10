@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45177,
       "digest": "sha256:f07ca8d7c472ce798ac318e2195208f32e30ef323da5e88a64a862c7375f7753",
-      "download_count": 44,
+      "download_count": 81,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:03Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:b6a718a5a328eb84868187d35b92870da84fcdc48312ed03ab9a230bd51eb80a",
-      "download_count": 98,
+      "download_count": 167,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:03Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/sha256.sum"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8755209,
       "digest": "sha256:85958e5cbccdb0f560e5a03c4414544f869af30d070dfa53fe2730cd7f6a9ef6",
-      "download_count": 79,
+      "download_count": 157,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:04Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/source.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:50586b44176499a5c70ae36a70ca0866338fc6cdc3dc69b6152aea0f4778616b",
-      "download_count": 50,
+      "download_count": 80,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:03Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/source.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 16621353,
       "digest": "sha256:46740540b63fdee9a6cb2e19baf3f1f475b850c440a33e63455087a6871263f1",
-      "download_count": 14643,
+      "download_count": 28760,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:04Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:ef4e6a42592b01fb2af405896148ffe56913664f70577c7d2498b3226d049120",
-      "download_count": 163,
+      "download_count": 324,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:04Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-apple-darwin.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 18767337,
       "digest": "sha256:36559da51ecee83b2b1d80aa1a0ede2f80e2d9e5761fffcbb9e9366a7f3d022a",
-      "download_count": 207,
+      "download_count": 527,
       "created_at": "2026-09-09T16:45:03Z",
       "updated_at": "2026-09-09T16:45:05Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:43060b935243a34a63aa520127167b204a01e179931c1c87a32721fd2dfad741",
-      "download_count": 107,
+      "download_count": 146,
       "created_at": "2026-09-09T16:45:04Z",
       "updated_at": "2026-09-09T16:45:04Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-pc-windows-msvc.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18605224,
       "digest": "sha256:fe08db50cc1b56cd1da7801065ed1103d27ed3f9571cd122386cfc7faf1b8df5",
-      "download_count": 43488,
+      "download_count": 76621,
       "created_at": "2026-09-09T16:45:04Z",
       "updated_at": "2026-09-09T16:45:05Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:883b533da2b9050b4277a7d2c355c777b5eb4ffd1c9aa9123afb4badb3657c7c",
-      "download_count": 320,
+      "download_count": 518,
       "created_at": "2026-09-09T16:45:04Z",
       "updated_at": "2026-09-09T16:45:05Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 20774699,
       "digest": "sha256:82e59fff633cbd96fb675f37c7a748c056d909a59ecf476f8ff0e5bee76b9b23",
-      "download_count": 593,
+      "download_count": 1276,
       "created_at": "2026-09-09T16:45:04Z",
       "updated_at": "2026-09-09T16:45:06Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-musl.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:cbe724d99e89bf6e41f47f5ee7228c8c84a8b950a883561a887e410bbc4311e0",
-      "download_count": 84,
+      "download_count": 124,
       "created_at": "2026-09-09T16:45:05Z",
       "updated_at": "2026-09-09T16:45:05Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21395904,
       "digest": "sha256:72ac215cb44636c62de5a672c9ff822acd1ffd90b96f751c359902c8de11c75b",
-      "download_count": 41,
+      "download_count": 61,
       "created_at": "2026-09-09T16:45:05Z",
       "updated_at": "2026-09-09T16:45:06Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-arm-unknown-linux-musleabihf.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:e27661bab17d95a0960dd029cca3a671142b4f212eaf2d7e68f0b7db85facc2e",
-      "download_count": 51,
+      "download_count": 82,
       "created_at": "2026-09-09T16:45:05Z",
       "updated_at": "2026-09-09T16:45:06Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-arm-unknown-linux-musleabihf.tar.gz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 20953012,
       "digest": "sha256:ed00794f3750bcf405556ac28e8aff0480a4e309e4ab1505df9f96b83088b230",
-      "download_count": 48,
+      "download_count": 75,
       "created_at": "2026-09-09T16:45:06Z",
       "updated_at": "2026-09-09T16:45:07Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:dbd9396acfd18afb09666b0054b68e8e32d2e046d8954d9f1fc73f41c3730f40",
-      "download_count": 51,
+      "download_count": 83,
       "created_at": "2026-09-09T16:45:06Z",
       "updated_at": "2026-09-09T16:45:06Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-armv7-unknown-linux-gnueabihf.tar.gz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 20890618,
       "digest": "sha256:74220d4b9df5507f527478313f17190cdff1078532efb8547483804372f77f47",
-      "download_count": 39,
+      "download_count": 62,
       "created_at": "2026-09-09T16:45:06Z",
       "updated_at": "2026-09-09T16:45:07Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-armv7-unknown-linux-musleabihf.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:e1d91bbfc70b24283ce68b72850b4730212a93fd52a77e670457c63a6878fda2",
-      "download_count": 51,
+      "download_count": 82,
       "created_at": "2026-09-09T16:45:06Z",
       "updated_at": "2026-09-09T16:45:06Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-armv7-unknown-linux-musleabihf.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 19345386,
       "digest": "sha256:5d6ea94bc2fdbcd39710e0bac00db2a771aae05d09a34387841187958af48362",
-      "download_count": 55,
+      "download_count": 80,
       "created_at": "2026-09-09T16:45:07Z",
       "updated_at": "2026-09-09T16:45:09Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-i686-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:d5fffc86b5bf8167ce3427ef158b017f32db3ac9c23f7c4a185925953c1ab150",
-      "download_count": 95,
+      "download_count": 130,
       "created_at": "2026-09-09T16:45:07Z",
       "updated_at": "2026-09-09T16:45:07Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-i686-pc-windows-msvc.zip.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 21811093,
       "digest": "sha256:ce4411f863d3bd0cf97699eecebce9331ae72d69cf57735806321bf60b637b03",
-      "download_count": 39,
+      "download_count": 62,
       "created_at": "2026-09-09T16:45:07Z",
       "updated_at": "2026-09-09T16:45:09Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-i686-unknown-linux-gnu.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:10085a364a635a5469cdc99ab09668a99847fde3c14f49c38f7b7bf0bc9bc501",
-      "download_count": 52,
+      "download_count": 84,
       "created_at": "2026-09-09T16:45:07Z",
       "updated_at": "2026-09-09T16:45:08Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-i686-unknown-linux-gnu.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 20957892,
       "digest": "sha256:b0a733aa67b9ea4d5dd28c1ae2c8393ce1be4b032c3d51642d6b05190f21fb6a",
-      "download_count": 38,
+      "download_count": 59,
       "created_at": "2026-09-09T16:45:08Z",
       "updated_at": "2026-09-09T16:45:09Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-i686-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:a0e94053921b7ef9a01ec137a5e7358e07eee7f50dd6cf41d00c9b0f0fa0c2d7",
-      "download_count": 52,
+      "download_count": 83,
       "created_at": "2026-09-09T16:45:08Z",
       "updated_at": "2026-09-09T16:45:08Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-i686-unknown-linux-musl.tar.gz.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 23293,
       "digest": "sha256:00b69ae502ad6a6c5af9d606559a29f218374f086cafa89bc2f6408a1f3e24b5",
-      "download_count": 440,
+      "download_count": 1013,
       "created_at": "2026-09-09T16:45:08Z",
       "updated_at": "2026-09-09T16:45:09Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-installer.ps1"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 71308,
       "digest": "sha256:f4f45f7f5f213d96efc1978b8772b2c037d495d9161ffa7468f8167c6b031033",
-      "download_count": 7492,
+      "download_count": 12163,
       "created_at": "2026-09-09T16:45:09Z",
       "updated_at": "2026-09-09T16:45:09Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-installer.sh"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 23044456,
       "digest": "sha256:b5d05f6cb74605da9bb371ee9f8128bb8611ba1fab324bd4abc6e70a83abe0c7",
-      "download_count": 43,
+      "download_count": 87,
       "created_at": "2026-09-09T16:45:09Z",
       "updated_at": "2026-09-09T16:45:10Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:b3e76171f298484c157b2a8e1baa8355587d173c76bf8797ac077bd3628bd08a",
-      "download_count": 53,
+      "download_count": 86,
       "created_at": "2026-09-09T16:45:09Z",
       "updated_at": "2026-09-09T16:45:10Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-powerpc64le-unknown-linux-gnu.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 21991662,
       "digest": "sha256:7b0b054d9a7d7b2c32e9ca111b271091240c81cb41487bcbe65992a2baca9c97",
-      "download_count": 42,
+      "download_count": 81,
       "created_at": "2026-09-09T16:45:09Z",
       "updated_at": "2026-09-09T16:45:11Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:6a6c7dd9b11f74e1637cd1c99772785ee2a2ce6b457dbf769a3ebef19ee2debe",
-      "download_count": 53,
+      "download_count": 86,
       "created_at": "2026-09-09T16:45:09Z",
       "updated_at": "2026-09-09T16:45:10Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-gnu.tar.gz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 21870596,
       "digest": "sha256:d2324e24ad526bbc45ac8a40f4d846c315efef9d4c91bb25725f29ccf2382b8a",
-      "download_count": 35,
+      "download_count": 56,
       "created_at": "2026-09-09T16:45:10Z",
       "updated_at": "2026-09-09T16:45:11Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:a12e6afc81c85b4f2faad0b2df360d9167816a7e781eeb064e45828a0503dea6",
-      "download_count": 52,
+      "download_count": 84,
       "created_at": "2026-09-09T16:45:10Z",
       "updated_at": "2026-09-09T16:45:10Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-musl.tar.gz.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 22779160,
       "digest": "sha256:53135d16813f9ad961c809828da06f2339d49510c110668fe2e0353fef46b213",
-      "download_count": 40,
+      "download_count": 79,
       "created_at": "2026-09-09T16:45:10Z",
       "updated_at": "2026-09-09T16:45:11Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-s390x-unknown-linux-gnu.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:e759628d76b16fdaa163885e94400f4841dd95a54f1f57dd7efe35031e7db4c4",
-      "download_count": 52,
+      "download_count": 84,
       "created_at": "2026-09-09T16:45:11Z",
       "updated_at": "2026-09-09T16:45:11Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-s390x-unknown-linux-gnu.tar.gz.sha256"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 20274466,
       "digest": "sha256:0dc8cd6c961582b0d140b5398f96b23502885277fb3464241456a2435e460dfa",
-      "download_count": 598,
+      "download_count": 1252,
       "created_at": "2026-09-09T16:45:11Z",
       "updated_at": "2026-09-09T16:45:12Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-apple-darwin.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:fa7931d12498d8a10684b6e5cbdd2ef16b21a0a1ca6c533fa79e6ad540836ab4",
-      "download_count": 84,
+      "download_count": 150,
       "created_at": "2026-09-09T16:45:11Z",
       "updated_at": "2026-09-09T16:45:11Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-apple-darwin.tar.gz.sha256"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 17558567,
       "digest": "sha256:3d54912924c36e862c14f427d04f2ed70a99e8001d1c30caa101f6d5711626d5",
-      "download_count": 22582,
+      "download_count": 55330,
       "created_at": "2026-09-09T16:45:11Z",
       "updated_at": "2026-09-09T16:45:13Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-pc-windows-msvc.zip"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:80d38c84a24b31410ed7de26b29746c26a6ef95a400cca114d4e6c1a137dc3d7",
-      "download_count": 217,
+      "download_count": 462,
       "created_at": "2026-09-09T16:45:11Z",
       "updated_at": "2026-09-09T16:45:12Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-pc-windows-msvc.zip.sha256"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 19401972,
       "digest": "sha256:ab9b309d4586403f024e100abaceb396616e178a553e2500c36087d180f09509",
-      "download_count": 1268489,
+      "download_count": 2574650,
       "created_at": "2026-09-09T16:45:12Z",
       "updated_at": "2026-09-09T16:45:13Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-gnu.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:e655e1370956600456edd0bba78cc0b08cb7b8d0c5ed2e0637162eae98124812",
-      "download_count": 374,
+      "download_count": 940,
       "created_at": "2026-09-09T16:45:12Z",
       "updated_at": "2026-09-09T16:45:12Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 22354451,
       "digest": "sha256:0b0bbd7144f91d9b694e29c920fca3a060322bd134e8507e5eb92049a3e2edf0",
-      "download_count": 1106,
+      "download_count": 2842,
       "created_at": "2026-09-09T16:45:12Z",
       "updated_at": "2026-09-09T16:45:14Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-musl.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:7bebb436ef27fd2b0017b6ef6314aa8ab469a74f04ac97969e9dbbf45eb7d396",
-      "download_count": 155,
+      "download_count": 301,
       "created_at": "2026-09-09T16:45:12Z",
       "updated_at": "2026-09-09T16:45:13Z",
       "browser_download_url": "https://github.com/astral-sh/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1554,14 +1554,14 @@
   "body": "## Release Notes\n\nReleased on 2026-09-09.\n\nThe executables in our macOS and Windows release archives and `uv` and `uv_build` wheels are now code-signed. macOS executables are signed with an Apple Developer ID certificate and notarized by Apple. Windows executables have timestamped Authenticode signatures from Azure Artifact Signing. This enables verification of the release publisher and binary integrity, supports publisher-based allowlisting, and should reduce security warnings and antivirus false positives.\n\n### Bug fixes\n\n- Exclude distributions uploaded after the `exclude-newer` cutoff from lockfiles and generated requirement hashes ([#21539](https://github.com/astral-sh/uv/pull/21539))\n\n## Install uv 0.12.12\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-installer.ps1 | iex\"\n```\n\n## Download uv 0.12.12\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [uv-aarch64-apple-darwin.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-apple-darwin.tar.gz) | Apple Silicon macOS | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-apple-darwin.tar.gz.sha256) |\n| [uv-x86_64-apple-darwin.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-apple-darwin.tar.gz) | Intel macOS | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-apple-darwin.tar.gz.sha256) |\n| [uv-aarch64-pc-windows-msvc.zip](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-pc-windows-msvc.zip) | ARM64 Windows | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-pc-windows-msvc.zip.sha256) |\n| [uv-i686-pc-windows-msvc.zip](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-i686-pc-windows-msvc.zip) | x86 Windows | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-i686-pc-windows-msvc.zip.sha256) |\n| [uv-x86_64-pc-windows-msvc.zip](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-pc-windows-msvc.zip.sha256) |\n| [uv-aarch64-unknown-linux-gnu.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-gnu.tar.gz) | ARM64 Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-gnu.tar.gz.sha256) |\n| [uv-i686-unknown-linux-gnu.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-i686-unknown-linux-gnu.tar.gz) | x86 Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-i686-unknown-linux-gnu.tar.gz.sha256) |\n| [uv-powerpc64le-unknown-linux-gnu.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-powerpc64le-unknown-linux-gnu.tar.gz) | PPC64LE Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-powerpc64le-unknown-linux-gnu.tar.gz.sha256) |\n| [uv-riscv64gc-unknown-linux-gnu.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-gnu.tar.gz) | RISCV Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-gnu.tar.gz.sha256) |\n| [uv-s390x-unknown-linux-gnu.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-s390x-unknown-linux-gnu.tar.gz) | S390x Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-s390x-unknown-linux-gnu.tar.gz.sha256) |\n| [uv-x86_64-unknown-linux-gnu.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-gnu.tar.gz) | x64 Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-gnu.tar.gz.sha256) |\n| [uv-armv7-unknown-linux-gnueabihf.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-armv7-unknown-linux-gnueabihf.tar.gz) | ARMv7 Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-armv7-unknown-linux-gnueabihf.tar.gz.sha256) |\n| [uv-aarch64-unknown-linux-musl.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-musl.tar.gz) | ARM64 MUSL Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-aarch64-unknown-linux-musl.tar.gz.sha256) |\n| [uv-i686-unknown-linux-musl.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-i686-unknown-linux-musl.tar.gz) | x86 MUSL Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-i686-unknown-linux-musl.tar.gz.sha256) |\n| [uv-riscv64gc-unknown-linux-musl.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-musl.tar.gz) | RISCV MUSL Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-riscv64gc-unknown-linux-musl.tar.gz.sha256) |\n| [uv-x86_64-unknown-linux-musl.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-musl.tar.gz) | x64 MUSL Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-x86_64-unknown-linux-musl.tar.gz.sha256) |\n| [uv-arm-unknown-linux-musleabihf.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-arm-unknown-linux-musleabihf.tar.gz) | ARMv6 MUSL Linux (Hardfloat) | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-arm-unknown-linux-musleabihf.tar.gz.sha256) |\n| [uv-armv7-unknown-linux-musleabihf.tar.gz](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-armv7-unknown-linux-musleabihf.tar.gz) | ARMv7 MUSL Linux | [checksum](https://releases.astral.sh/github/uv/releases/download/0.12.12/uv-armv7-unknown-linux-musleabihf.tar.gz.sha256) |\n\n## Verifying GitHub Artifact Attestations\n\nThe artifacts in this release have attestations generated with GitHub Artifact Attestations. These can be verified by using the [GitHub CLI](https://cli.github.com/manual/gh_attestation_verify):\n```sh\ngh attestation verify <file-path of downloaded artifact> --repo astral-sh/uv\n```\n\nYou can also download the attestation from [GitHub](https://github.com/astral-sh/uv/attestations) and verify against that directly:\n```sh\ngh attestation verify <file-path of downloaded artifact> --bundle <file-path of downloaded attestation>\n```\n\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/astral-sh/uv/releases/385690522/reactions",
-    "total_count": 18,
-    "+1": 9,
+    "total_count": 33,
+    "+1": 16,
     "-1": 0,
-    "laugh": 0,
-    "hooray": 3,
+    "laugh": 1,
+    "hooray": 5,
     "confused": 0,
-    "heart": 2,
-    "rocket": 3,
+    "heart": 4,
+    "rocket": 6,
     "eyes": 1
   }
 }
