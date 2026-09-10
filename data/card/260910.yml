@@ -2,25 +2,25 @@ about:
   description: "An extremely fast Python package and project manager, written in Rust."
   license: Apache-2.0
   homepage: https://docs.astral.sh/uv
-  head: 17ccae3
+  head: 66d6d99
   archived: false
-  latestVersion: "0.12.12"
-  latestRelease: "0.12.12"
+  latestVersion: "0.12.13"
+  latestRelease: "0.12.13"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:21:59Z
+  collectedAt: 2026-09-10T21:23:31Z
 timeline:
   created: 2023-10-02
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 89688
+  star: 89690
   watcher: 187
-  fork: 3562
-  release: 310
+  fork: 3563
+  release: 311
   contributor: 600
-  pullRequest: 12192
+  pullRequest: 12197
   issue: 9254
 language:
   Rust: 19253551
@@ -38,62 +38,62 @@ totalBytes: 19694457
 recent:
   last30d:
     since: 2026-08-11
-    release: 9
-    mergedPR: 320
-    openPR: 101
+    release: 10
+    mergedPR: 323
+    openPR: 103
     closedIssue: 35
     openIssue: 26
-    commit: 391
+    commit: 396
   last60d:
     since: 2026-07-12
-    release: 18
-    mergedPR: 791
-    openPR: 182
+    release: 19
+    mergedPR: 794
+    openPR: 184
     closedIssue: 79
     openIssue: 80
-    commit: 1005
+    commit: 1010
   last90d:
     since: 2026-06-12
-    release: 25
-    mergedPR: 1060
-    openPR: 213
+    release: 26
+    mergedPR: 1063
+    openPR: 215
     closedIssue: 123
     openIssue: 115
-    commit: 1414
+    commit: 1419
   last180d:
     since: 2026-03-14
-    release: 49
-    mergedPR: 1726
-    openPR: 302
+    release: 50
+    mergedPR: 1729
+    openPR: 304
     closedIssue: 331
     openIssue: 288
-    commit: 2165
+    commit: 2170
   last360d:
     since: 2025-09-15
-    release: 97
-    mergedPR: 2900
-    openPR: 415
+    release: 98
+    mergedPR: 2903
+    openPR: 417
     closedIssue: 960
     openIssue: 742
-    commit: 3578
+    commit: 3583
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 6319
-    openPR: 519
+    mergedPR: 6322
+    openPR: 521
     closedIssue: 4099
     openIssue: 1969
-    commit: 6330
+    commit: 6333
 total:
-  release: 310
-  mergedPR: 10362
-  openPR: 523
+  release: 311
+  mergedPR: 10365
+  openPR: 525
   closedIssue: 6897
   openIssue: 2357
-  commit: 10421
+  commit: 10424
 ---
 path: /home/runner/.x-repo/github.com/astral-sh/uv
-collectedAt: 2026-09-10T18:22:33Z
+collectedAt: 2026-09-10T21:24:06Z
 loc:
   Rust:
     code: 435461
@@ -111,7 +111,7 @@ loc:
     blanks: 2184
     files: 373
   Yaml:
-    code: 11093
+    code: 11094
     comments: 486
     blanks: 1370
     files: 52
@@ -187,8 +187,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 21726
-    blanks: 7912
+    comments: 21759
+    blanks: 7924
     files: 202
   Text:
     code: 0
@@ -196,9 +196,9 @@ loc:
     blanks: 24
     files: 30
 total:
-  code: 573703
-  comments: 71296
-  blanks: 64749
+  code: 573704
+  comments: 71329
+  blanks: 64761
   files: 1501
 ---
 
