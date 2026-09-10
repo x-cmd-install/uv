@@ -38,22 +38,22 @@ Total: **571,363** lines of code across **1190** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 89,690 · **Forks**: 3,563 · **Open issues**: 9,254 · **Contributors**: 600
+- **Stars**: 89,692 · **Forks**: 3,563 · **Open issues**: 9,254 · **Contributors**: 600
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 10365 · **Open PRs**: 525 · **Closed issues**: 6897 · **Open issues**: 2357 · **Commits**: 10424
+- **Releases**: 311 · **Merged PRs**: 10366 · **Open PRs**: 526 · **Closed issues**: 6897 · **Open issues**: 2357 · **Commits**: 10425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 323 | 103 | 35 | 26 | 396 |
-| last60d | 2026-07-12 | 19 | 794 | 184 | 79 | 80 | 1010 |
-| 90d | 2026-06-12 | 26 | 1063 | 215 | 123 | 115 | 1419 |
-| last180d | 2026-03-14 | 50 | 1729 | 304 | 331 | 288 | 2170 |
-| 360d | 2025-09-15 | 98 | 2903 | 417 | 960 | 742 | 3583 |
-| last720d | 2024-09-20 | 100 | 6322 | 521 | 4099 | 1969 | 6333 |
+| 30d | 2026-08-11 | 10 | 324 | 104 | 35 | 26 | 398 |
+| last60d | 2026-07-12 | 19 | 795 | 185 | 79 | 80 | 1012 |
+| 90d | 2026-06-12 | 26 | 1064 | 216 | 123 | 115 | 1421 |
+| last180d | 2026-03-14 | 50 | 1730 | 305 | 331 | 288 | 2172 |
+| 360d | 2025-09-15 | 98 | 2904 | 418 | 960 | 742 | 3585 |
+| last720d | 2024-09-20 | 100 | 6323 | 522 | 4099 | 1969 | 6334 |
 
 ## Release assets
 
@@ -127,4 +127,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:24:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:33:04Z._
