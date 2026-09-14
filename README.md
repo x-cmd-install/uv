@@ -38,22 +38,22 @@ Total: **574,024** lines of code across **1194** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 89,762 · **Forks**: 3,575 · **Open issues**: 9,262 · **Contributors**: 601
+- **Stars**: 89,793 · **Forks**: 3,578 · **Open issues**: 9,265 · **Contributors**: 601
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 10398 · **Open PRs**: 523 · **Closed issues**: 6902 · **Open issues**: 2360 · **Commits**: 10457
+- **Releases**: 311 · **Merged PRs**: 10398 · **Open PRs**: 544 · **Closed issues**: 6904 · **Open issues**: 2361 · **Commits**: 10457
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 9 | 292 | 100 | 26 | 27 | 329 |
-| last60d | 2026-07-15 | 19 | 719 | 163 | 77 | 81 | 881 |
-| 90d | 2026-06-15 | 26 | 1071 | 211 | 122 | 117 | 1435 |
-| last180d | 2026-03-17 | 50 | 1732 | 297 | 323 | 285 | 2128 |
-| 360d | 2025-09-18 | 97 | 2913 | 410 | 951 | 731 | 3594 |
-| last720d | 2024-09-23 | 100 | 6331 | 519 | 4089 | 1967 | 6343 |
+| 30d | 2026-08-15 | 8 | 289 | 119 | 28 | 28 | 329 |
+| last60d | 2026-07-16 | 18 | 697 | 182 | 79 | 80 | 881 |
+| 90d | 2026-06-16 | 26 | 1068 | 231 | 119 | 115 | 1435 |
+| last180d | 2026-03-18 | 49 | 1725 | 318 | 319 | 281 | 2128 |
+| 360d | 2025-09-19 | 97 | 2911 | 430 | 945 | 726 | 3594 |
+| last720d | 2024-09-24 | 100 | 6315 | 539 | 4084 | 1965 | 6329 |
 
 ## Release assets
 
@@ -102,22 +102,6 @@ Total: **574,024** lines of code across **1194** files in the top 5 languages.
 | [uv-x86_64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-unknown-linux-musl.tar.gz) | 21.2 MiB | `native/linux/x64/musl` |
 | [uv-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-unknown-linux-musl.tar.gz.sha256) | 102 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **406** distros on [repology.org](https://repology.org/project/uv). **39** are ✅ on the latest upstream release, **150** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.9.17` | ⚠️ outdated |
-| Debian 14 | `0.9.17` | ⚠️ outdated |
-| Arch | `0.12.13` | ✅ latest |
-| Homebrew | `0.12.13` | ✅ latest |
-| Fedora rawhide | `0.12.13` | ✅ latest |
-| Nix unstable | `0.12.11` | ⚠️ outdated |
-| Void | `0.12.9` | ⚠️ outdated |
-| Alpine edge | `0.12.11` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.12.9` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `uv` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -127,4 +111,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:13:30Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:32:53Z._

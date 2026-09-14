@@ -38,22 +38,22 @@ x install uv
 
 ## 流行度
 
-- **Star**: 89,762 · **Fork**: 3,575 · **开放 issue**: 9,262 · **贡献者**: 601
+- **Star**: 89,793 · **Fork**: 3,578 · **开放 issue**: 9,265 · **贡献者**: 601
 
 ## 累计统计
 
-- **发布数**: 311 · **已合并 PR**: 10398 · **开放 PR**: 523 · **已关闭 issue**: 6902 · **开放 issue**: 2360 · **提交数**: 10457
+- **发布数**: 311 · **已合并 PR**: 10398 · **开放 PR**: 544 · **已关闭 issue**: 6904 · **开放 issue**: 2361 · **提交数**: 10457
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 9 | 292 | 100 | 26 | 27 | 329 |
-| last60d | 2026-07-15 | 19 | 719 | 163 | 77 | 81 | 881 |
-| 90d | 2026-06-15 | 26 | 1071 | 211 | 122 | 117 | 1435 |
-| last180d | 2026-03-17 | 50 | 1732 | 297 | 323 | 285 | 2128 |
-| 360d | 2025-09-18 | 97 | 2913 | 410 | 951 | 731 | 3594 |
-| last720d | 2024-09-23 | 100 | 6331 | 519 | 4089 | 1967 | 6343 |
+| 30d | 2026-08-15 | 8 | 289 | 119 | 28 | 28 | 329 |
+| last60d | 2026-07-16 | 18 | 697 | 182 | 79 | 80 | 881 |
+| 90d | 2026-06-16 | 26 | 1068 | 231 | 119 | 115 | 1435 |
+| last180d | 2026-03-18 | 49 | 1725 | 318 | 319 | 281 | 2128 |
+| 360d | 2025-09-19 | 97 | 2911 | 430 | 945 | 726 | 3594 |
+| last720d | 2024-09-24 | 100 | 6315 | 539 | 4084 | 1965 | 6329 |
 
 ## Release 资产
 
@@ -102,22 +102,6 @@ x install uv
 | [uv-x86_64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-unknown-linux-musl.tar.gz) | 21.2 MiB | `native/linux/x64/musl` |
 | [uv-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-unknown-linux-musl.tar.gz.sha256) | 102 B | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/uv) 上共有 **406** 个发行版报告此项目。**39** 个 ✅ 已是最新上游版本，**150** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.9.17` | ⚠️ outdated |
-| Debian 14 | `0.9.17` | ⚠️ outdated |
-| Arch | `0.12.13` | ✅ latest |
-| Homebrew | `0.12.13` | ✅ latest |
-| Fedora rawhide | `0.12.13` | ✅ latest |
-| Nix unstable | `0.12.11` | ⚠️ outdated |
-| Void | `0.12.9` | ⚠️ outdated |
-| Alpine edge | `0.12.11` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.12.9` | ⚠️ outdated |
-
 ## 改进这些数据
 
 uv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `uv` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -127,4 +111,4 @@ uv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:13:31Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:32:54Z._
