@@ -1,0 +1,210 @@
+about:
+  description: "An extremely fast Python package and project manager, written in Rust."
+  license: Apache-2.0
+  homepage: https://docs.astral.sh/uv
+  head: 70fe119
+  archived: false
+  latestVersion: "0.12.22"
+  latestRelease: "0.12.22"
+  latestPrerelease: ""
+  collectedAt: 2026-10-02T06:53:49Z
+timeline:
+  created: 2023-10-02
+  lastCommit: 2026-10-01
+  lastVersion: 2026-10-02
+  lastRelease: 2026-10-02
+  lastPrerelease: 
+popularity:
+  star: 90354
+  watcher: 187
+  fork: 3626
+  release: 320
+  contributor: 605
+  pullRequest: 12650
+  issue: 9325
+language:
+  Rust: 20290342
+  Python: 389580
+  Shell: 40912
+  PowerShell: 9003
+  Batchfile: 5848
+  Dockerfile: 5549
+  Nushell: 3981
+  Xonsh: 3849
+  Jupyter Notebook: 2140
+  C: 806
+  RenderScript: 2
+totalBytes: 20752012
+recent:
+  last30d:
+    since: 2026-09-02
+    release: 13
+    mergedPR: 407
+    openPR: 110
+    closedIssue: 36
+    openIssue: 31
+    commit: 485
+  last60d:
+    since: 2026-08-03
+    release: 21
+    mergedPR: 708
+    openPR: 176
+    closedIssue: 83
+    openIssue: 63
+    commit: 948
+  last90d:
+    since: 2026-07-04
+    release: 30
+    mergedPR: 1232
+    openPR: 250
+    closedIssue: 126
+    openIssue: 110
+    commit: 1625
+  last180d:
+    since: 2026-04-05
+    release: 53
+    mergedPR: 1881
+    openPR: 330
+    closedIssue: 292
+    openIssue: 261
+    commit: 2347
+  last360d:
+    since: 2025-10-07
+    release: 100
+    mergedPR: 3116
+    openPR: 450
+    closedIssue: 915
+    openIssue: 698
+    commit: 3834
+  last720d:
+    since: 2024-10-12
+    release: 100
+    mergedPR: 6399
+    openPR: 564
+    closedIssue: 3932
+    openIssue: 1917
+    commit: 6399
+total:
+  release: 320
+  mergedPR: 10684
+  openPR: 570
+  closedIssue: 6955
+  openIssue: 2370
+  commit: 10730
+---
+path: /home/runner/.x-repo/github.com/astral-sh/uv
+collectedAt: 2026-10-02T06:54:22Z
+loc:
+  Rust:
+    code: 461974
+    comments: 17985
+    blanks: 47847
+    files: 678
+  Json:
+    code: 104489
+    comments: 0
+    blanks: 0
+    files: 15
+  Toml:
+    code: 14128
+    comments: 864
+    blanks: 2198
+    files: 378
+  Yaml:
+    code: 11372
+    comments: 506
+    blanks: 1353
+    files: 53
+  Python:
+    code: 8975
+    comments: 858
+    blanks: 1632
+    files: 109
+  Autoconf:
+    code: 1425
+    comments: 1145
+    blanks: 963
+    files: 22
+  Sh:
+    code: 648
+    comments: 207
+    blanks: 183
+    files: 29
+  Svg:
+    code: 321
+    comments: 0
+    blanks: 0
+    files: 4
+  PowerShell:
+    code: 216
+    comments: 73
+    blanks: 41
+    files: 8
+  Css:
+    code: 197
+    comments: 35
+    blanks: 25
+    files: 1
+  Batch:
+    code: 123
+    comments: 8
+    blanks: 16
+    files: 4
+  Dockerfile:
+    code: 117
+    comments: 24
+    blanks: 33
+    files: 3
+  JavaScript:
+    code: 111
+    comments: 16
+    blanks: 13
+    files: 1
+  Fish:
+    code: 73
+    comments: 34
+    blanks: 20
+    files: 1
+  CShell:
+    code: 35
+    comments: 27
+    blanks: 14
+    files: 1
+  C:
+    code: 22
+    comments: 0
+    blanks: 4
+    files: 1
+  Jupyter:
+    code: 20
+    comments: 1
+    blanks: 3
+    files: 1
+  CHeader:
+    code: 7
+    comments: 2
+    blanks: 3
+    files: 2
+  ForgeConfig:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 21948
+    blanks: 8046
+    files: 200
+  Text:
+    code: 0
+    comments: 1405
+    blanks: 24
+    files: 29
+total:
+  code: 606617
+  comments: 72612
+  blanks: 66899
+  files: 1541
+---
+
+---
