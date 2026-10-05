@@ -38,22 +38,22 @@ Total: **609,178** lines of code across **1227** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 90,406 · **Forks**: 3,628 · **Open issues**: 9,328 · **Contributors**: 605
+- **Stars**: 90,409 · **Forks**: 3,628 · **Open issues**: 9,330 · **Contributors**: 605
 
 ## Totals (cumulative)
 
-- **Releases**: 321 · **Merged PRs**: 10698 · **Open PRs**: 561 · **Closed issues**: 6957 · **Open issues**: 2371 · **Commits**: 10744
+- **Releases**: 321 · **Merged PRs**: 10698 · **Open PRs**: 573 · **Closed issues**: 6958 · **Open issues**: 2372 · **Commits**: 10744
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 14 | 390 | 100 | 37 | 30 | 363 |
-| last60d | 2026-08-05 | 22 | 692 | 166 | 80 | 65 | 849 |
-| 90d | 2026-07-06 | 31 | 1213 | 240 | 123 | 110 | 1477 |
-| last180d | 2026-04-07 | 54 | 1875 | 318 | 286 | 257 | 2289 |
-| 360d | 2025-10-09 | 100 | 3109 | 441 | 901 | 689 | 3795 |
-| last720d | 2024-10-14 | 100 | 6401 | 554 | 3915 | 1916 | 6402 |
+| 30d | 2026-09-05 | 13 | 385 | 111 | 37 | 30 | 363 |
+| last60d | 2026-08-06 | 21 | 684 | 178 | 79 | 61 | 849 |
+| 90d | 2026-07-07 | 30 | 1175 | 248 | 122 | 111 | 1477 |
+| last180d | 2026-04-08 | 54 | 1860 | 325 | 283 | 255 | 2289 |
+| 360d | 2025-10-10 | 99 | 3103 | 451 | 889 | 685 | 3795 |
+| last720d | 2024-10-15 | 100 | 6385 | 566 | 3899 | 1912 | 6389 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:57:39Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:46:20Z._
