@@ -14,15 +14,15 @@ x install uv
 
 ## Code insight
 
-Total: **609,631** lines of code across **1233** files in the top 5 languages.
+Total: **612,864** lines of code across **1304** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 466,973 | 18,120 | 48,265 | 688 |
-| Json | 105,850 | 0 | 0 | 15 |
-| Toml | 14,131 | 864 | 2,198 | 378 |
-| Yaml | 11,256 | 497 | 1,340 | 53 |
-| Python | 8,169 | 770 | 1,498 | 99 |
+| Rust | 469,032 | 18,159 | 48,529 | 740 |
+| Json | 105,919 | 0 | 0 | 16 |
+| Toml | 15,018 | 865 | 2,283 | 395 |
+| Yaml | 11,430 | 507 | 1,360 | 54 |
+| Python | 8,171 | 770 | 1,498 | 99 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **609,631** lines of code across **1233** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.12.23` (2026-10-03)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 90,460 · **Forks**: 3,632 · **Open issues**: 9,336 · **Contributors**: 608
+- **Stars**: 90,490 · **Forks**: 3,632 · **Open issues**: 9,347 · **Contributors**: 609
 
 ## Totals (cumulative)
 
-- **Releases**: 321 · **Merged PRs**: 10727 · **Open PRs**: 597 · **Closed issues**: 6961 · **Open issues**: 2375 · **Commits**: 10770
+- **Releases**: 321 · **Merged PRs**: 10811 · **Open PRs**: 583 · **Closed issues**: 6965 · **Open issues**: 2382 · **Commits**: 10851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 13 | 379 | 128 | 38 | 35 | 392 |
-| last60d | 2026-08-08 | 20 | 704 | 202 | 76 | 65 | 878 |
-| 90d | 2026-07-09 | 29 | 1164 | 269 | 119 | 115 | 1506 |
-| last180d | 2026-04-10 | 51 | 1874 | 348 | 274 | 254 | 2318 |
-| 360d | 2025-10-12 | 98 | 3130 | 473 | 885 | 686 | 3824 |
-| last720d | 2024-10-17 | 100 | 6373 | 590 | 3874 | 1903 | 6369 |
+| 30d | 2026-09-08 | 13 | 451 | 114 | 42 | 42 | 499 |
+| last60d | 2026-08-09 | 20 | 786 | 187 | 79 | 71 | 985 |
+| 90d | 2026-07-10 | 29 | 1238 | 255 | 123 | 121 | 1613 |
+| last180d | 2026-04-11 | 51 | 1958 | 334 | 278 | 259 | 2425 |
+| 360d | 2025-10-13 | 98 | 3195 | 457 | 887 | 687 | 3931 |
+| last720d | 2024-10-18 | 100 | 6440 | 576 | 3864 | 1906 | 6433 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:05:35Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:24:42Z._
