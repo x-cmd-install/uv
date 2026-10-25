@@ -38,22 +38,22 @@ Total: **636,670** lines of code across **1331** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 91,094 · **Forks**: 3,686 · **Open issues**: 9,396 · **Contributors**: 613
+- **Stars**: 91,130 · **Forks**: 3,690 · **Open issues**: 9,398 · **Contributors**: 613
 
 ## Totals (cumulative)
 
-- **Releases**: 328 · **Merged PRs**: 11192 · **Open PRs**: 623 · **Closed issues**: 7033 · **Open issues**: 2363 · **Commits**: 11241
+- **Releases**: 328 · **Merged PRs**: 11192 · **Open PRs**: 624 · **Closed issues**: 7033 · **Open issues**: 2365 · **Commits**: 11241
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 12 | 585 | 129 | 44 | 43 | 682 |
-| last60d | 2026-08-25 | 25 | 983 | 209 | 88 | 70 | 1198 |
-| 90d | 2026-07-26 | 32 | 1357 | 257 | 142 | 115 | 1727 |
-| last180d | 2026-04-27 | 57 | 2219 | 364 | 292 | 239 | 2759 |
-| 360d | 2025-10-29 | 100 | 3507 | 491 | 853 | 643 | 4308 |
-| last720d | 2024-11-03 | 100 | 6633 | 614 | 3746 | 1846 | 6632 |
+| 30d | 2026-09-25 | 12 | 573 | 125 | 42 | 44 | 589 |
+| last60d | 2026-08-26 | 24 | 980 | 209 | 87 | 70 | 1113 |
+| 90d | 2026-07-27 | 32 | 1307 | 256 | 140 | 116 | 1587 |
+| last180d | 2026-04-28 | 56 | 2218 | 365 | 291 | 241 | 2723 |
+| 360d | 2025-10-30 | 100 | 3501 | 492 | 843 | 641 | 4251 |
+| last720d | 2024-11-04 | 100 | 6615 | 615 | 3734 | 1846 | 6625 |
 
 ## Release assets
 
@@ -104,7 +104,7 @@ Total: **636,670** lines of code across **1331** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **398** distros on [repology.org](https://repology.org/project/uv). **50** are ✅ on the latest upstream release, **138** are ⚠️ on an older version.
+Reported by **398** distros on [repology.org](https://repology.org/project/uv). **56** are ✅ on the latest upstream release, **132** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -112,8 +112,8 @@ Reported by **398** distros on [repology.org](https://repology.org/project/uv). 
 | Debian 14 | `0.9.17` | ⚠️ outdated |
 | Arch | `0.13.5` | ✅ latest |
 | Homebrew | `0.13.5` | ✅ latest |
-| Fedora rawhide | `0.13.0` | ⚠️ outdated |
-| Nix unstable | `0.13.1` | ⚠️ outdated |
+| Fedora rawhide | `0.13.5` | ✅ latest |
+| Nix unstable | `0.13.4` | ⚠️ outdated |
 | Void | `0.13.5` | ✅ latest |
 | Alpine edge | `0.12.23` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.13.1` | ⚠️ outdated |
@@ -127,4 +127,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:46:16Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:44:53Z._
