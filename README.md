@@ -33,27 +33,27 @@ Total: **643,560** lines of code across **1336** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.13.6` (2026-10-27)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 91,410 · **Forks**: 3,739 · **Open issues**: 9,421 · **Contributors**: 616
+- **Stars**: 91,446 · **Forks**: 3,742 · **Open issues**: 9,423 · **Contributors**: 616
 
 ## Totals (cumulative)
 
-- **Releases**: 329 · **Merged PRs**: 11251 · **Open PRs**: 638 · **Closed issues**: 7041 · **Open issues**: 2380 · **Commits**: 11299
+- **Releases**: 329 · **Merged PRs**: 11253 · **Open PRs**: 652 · **Closed issues**: 7041 · **Open issues**: 2382 · **Commits**: 11301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 10 | 530 | 133 | 42 | 55 | 467 |
-| last60d | 2026-09-02 | 22 | 964 | 207 | 83 | 82 | 1063 |
-| 90d | 2026-08-03 | 30 | 1269 | 266 | 132 | 112 | 1526 |
-| last180d | 2026-05-05 | 57 | 2231 | 381 | 277 | 248 | 2729 |
-| 360d | 2025-11-06 | 100 | 3518 | 507 | 818 | 640 | 4272 |
-| last720d | 2024-11-11 | 100 | 6578 | 627 | 3655 | 1837 | 6585 |
+| 30d | 2026-10-03 | 9 | 529 | 146 | 41 | 57 | 469 |
+| last60d | 2026-09-03 | 22 | 947 | 220 | 83 | 83 | 1065 |
+| 90d | 2026-08-04 | 30 | 1264 | 280 | 131 | 114 | 1528 |
+| last180d | 2026-05-06 | 55 | 2228 | 393 | 273 | 249 | 2731 |
+| 360d | 2025-11-07 | 100 | 3516 | 520 | 815 | 639 | 4274 |
+| last720d | 2024-11-12 | 100 | 6565 | 641 | 3637 | 1835 | 6568 |
 
 ## Release assets
 
@@ -104,7 +104,7 @@ Total: **643,560** lines of code across **1336** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **402** distros on [repology.org](https://repology.org/project/uv). **67** are ✅ on the latest upstream release, **121** are ⚠️ on an older version.
+Reported by **397** distros on [repology.org](https://repology.org/project/uv). **68** are ✅ on the latest upstream release, **115** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -127,4 +127,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:19:53Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:24:12Z._
