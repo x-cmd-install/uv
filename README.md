@@ -33,27 +33,27 @@ Total: **647,969** lines of code across **1340** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.13.8` (2026-11-12)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 92,029 · **Forks**: 3,823 · **Open issues**: 9,455 · **Contributors**: 616
+- **Stars**: 92,053 · **Forks**: 3,848 · **Open issues**: 9,456 · **Contributors**: 616
 
 ## Totals (cumulative)
 
-- **Releases**: 331 · **Merged PRs**: 11335 · **Open PRs**: 678 · **Closed issues**: 7053 · **Open issues**: 2402 · **Commits**: 11384
+- **Releases**: 331 · **Merged PRs**: 11336 · **Open PRs**: 678 · **Closed issues**: 7053 · **Open issues**: 2403 · **Commits**: 11385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 7 | 290 | 120 | 26 | 57 | 210 |
-| last60d | 2026-09-16 | 18 | 833 | 218 | 79 | 97 | 871 |
-| 90d | 2026-08-17 | 28 | 1199 | 296 | 117 | 120 | 1381 |
-| last180d | 2026-05-19 | 52 | 2212 | 417 | 263 | 247 | 2729 |
-| 360d | 2025-11-20 | 100 | 3526 | 543 | 783 | 631 | 4291 |
-| last720d | 2024-11-25 | 100 | 6488 | 665 | 3493 | 1821 | 6477 |
+| 30d | 2026-10-17 | 7 | 284 | 118 | 26 | 58 | 211 |
+| last60d | 2026-09-17 | 18 | 813 | 215 | 75 | 98 | 872 |
+| 90d | 2026-08-18 | 28 | 1176 | 295 | 114 | 120 | 1382 |
+| last180d | 2026-05-20 | 52 | 2209 | 415 | 259 | 246 | 2730 |
+| 360d | 2025-11-21 | 99 | 3517 | 542 | 779 | 632 | 4292 |
+| last720d | 2024-11-26 | 100 | 6480 | 665 | 3483 | 1816 | 6464 |
 
 ## Release assets
 
@@ -104,14 +104,14 @@ Total: **647,969** lines of code across **1340** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **412** distros on [repology.org](https://repology.org/project/uv). **50** are ✅ on the latest upstream release, **140** are ⚠️ on an older version.
+Reported by **412** distros on [repology.org](https://repology.org/project/uv). **53** are ✅ on the latest upstream release, **137** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.9.17` | ⚠️ outdated |
 | Debian 14 | `0.9.17` | ⚠️ outdated |
 | Arch | `0.13.8` | ✅ latest |
-| Homebrew | `0.13.8` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.13.8` | ✅ latest |
 | Nix unstable | `0.13.7` | ⚠️ outdated |
 | Void | `0.13.7` | ⚠️ outdated |
@@ -127,4 +127,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:02:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:38:37Z._
