@@ -14,15 +14,15 @@ x install uv
 
 ## Code insight
 
-Total: **647,969** lines of code across **1340** files in the top 5 languages.
+Total: **654,250** lines of code across **1345** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 489,247 | 18,219 | 50,073 | 765 |
-| Json | 119,832 | 0 | 0 | 17 |
-| Toml | 15,286 | 878 | 2,311 | 401 |
-| Yaml | 11,803 | 505 | 1,389 | 56 |
-| Python | 8,536 | 847 | 1,545 | 101 |
+| Rust | 495,399 | 18,093 | 50,176 | 770 |
+| Json | 119,921 | 0 | 0 | 17 |
+| Toml | 15,294 | 874 | 2,316 | 401 |
+| Yaml | 11,810 | 505 | 1,390 | 56 |
+| Python | 8,576 | 847 | 1,546 | 101 |
 
 ## Source
 
@@ -32,89 +32,89 @@ Total: **647,969** lines of code across **1340** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.13.8` (2026-11-12)
-- **Last commit**: 2026-11-16
+- **Latest**: `0.13.9` (2026-11-17)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 92,053 · **Forks**: 3,848 · **Open issues**: 9,456 · **Contributors**: 616
+- **Stars**: 92,337 · **Forks**: 3,930 · **Open issues**: 9,468 · **Contributors**: 617
 
 ## Totals (cumulative)
 
-- **Releases**: 331 · **Merged PRs**: 11336 · **Open PRs**: 678 · **Closed issues**: 7053 · **Open issues**: 2403 · **Commits**: 11385
+- **Releases**: 332 · **Merged PRs**: 11361 · **Open PRs**: 672 · **Closed issues**: 7059 · **Open issues**: 2409 · **Commits**: 11410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 7 | 284 | 118 | 26 | 58 | 211 |
-| last60d | 2026-09-17 | 18 | 813 | 215 | 75 | 98 | 872 |
-| 90d | 2026-08-18 | 28 | 1176 | 295 | 114 | 120 | 1382 |
-| last180d | 2026-05-20 | 52 | 2209 | 415 | 259 | 246 | 2730 |
-| 360d | 2025-11-21 | 99 | 3517 | 542 | 779 | 632 | 4292 |
-| last720d | 2024-11-26 | 100 | 6480 | 665 | 3483 | 1816 | 6464 |
+| 30d | 2026-10-20 | 7 | 229 | 105 | 27 | 63 | 240 |
+| last60d | 2026-09-20 | 17 | 809 | 204 | 71 | 103 | 901 |
+| 90d | 2026-08-21 | 29 | 1162 | 280 | 112 | 128 | 1411 |
+| last180d | 2026-05-23 | 52 | 2217 | 407 | 258 | 251 | 2759 |
+| 360d | 2025-11-24 | 100 | 3531 | 536 | 772 | 639 | 4321 |
+| last720d | 2024-11-29 | 100 | 6476 | 659 | 3450 | 1817 | 6455 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dist-manifest.json](https://github.com/astral-sh/uv/releases/download/0.13.8/dist-manifest.json) | 47.2 KiB | `other` |
-| [sha256.sum](https://github.com/astral-sh/uv/releases/download/0.13.8/sha256.sum) | 1.9 KiB | `other` |
-| [source.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/source.tar.gz) | 8.6 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/source.tar.gz.sha256) | 81 B | `other` |
-| [uv-aarch64-apple-darwin.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-apple-darwin.tar.gz) | 13.7 MiB | `native/darwin/arm64` |
-| [uv-aarch64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-apple-darwin.tar.gz.sha256) | 97 B | `native/darwin/arm64` |
-| [uv-aarch64-pc-windows-msvc.zip](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-pc-windows-msvc.zip) | 14.9 MiB | `native/win/arm64` |
-| [uv-aarch64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-pc-windows-msvc.zip.sha256) | 97 B | `native/win/arm64` |
-| [uv-aarch64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-unknown-linux-gnu.tar.gz) | 15.3 MiB | `native/linux/arm64/glibc` |
-| [uv-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-unknown-linux-gnu.tar.gz.sha256) | 102 B | `native/linux/arm64/glibc` |
-| [uv-aarch64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-unknown-linux-musl.tar.gz) | 16.4 MiB | `native/linux/arm64/musl` |
-| [uv-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-unknown-linux-musl.tar.gz.sha256) | 103 B | `native/linux/arm64/musl` |
-| [uv-arm-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-arm-unknown-linux-musleabihf.tar.gz) | 17.0 MiB | `native/linux/arm/musl` |
-| [uv-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-arm-unknown-linux-musleabihf.tar.gz.sha256) | 105 B | `native/linux/arm/musl` |
-| [uv-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-armv7-unknown-linux-gnueabihf.tar.gz) | 16.4 MiB | `native/linux/arm/glibc` |
-| [uv-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 106 B | `native/linux/arm/glibc` |
-| [uv-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-armv7-unknown-linux-musleabihf.tar.gz) | 16.4 MiB | `native/linux/arm/musl` |
-| [uv-armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-armv7-unknown-linux-musleabihf.tar.gz.sha256) | 107 B | `native/linux/arm/musl` |
-| [uv-i686-pc-windows-msvc.zip](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-i686-pc-windows-msvc.zip) | 15.4 MiB | `native/win/x64` |
-| [uv-i686-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-i686-pc-windows-msvc.zip.sha256) | 94 B | `native/win/x64` |
-| [uv-i686-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-i686-unknown-linux-gnu.tar.gz) | 17.4 MiB | `native/linux/x86/glibc` |
-| [uv-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-i686-unknown-linux-gnu.tar.gz.sha256) | 99 B | `native/linux/x86/glibc` |
-| [uv-i686-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-i686-unknown-linux-musl.tar.gz) | 16.7 MiB | `native/linux/x86/musl` |
-| [uv-i686-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-i686-unknown-linux-musl.tar.gz.sha256) | 100 B | `native/linux/x86/musl` |
-| [uv-installer.ps1](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-installer.ps1) | 22.7 KiB | `other` |
-| [uv-installer.sh](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-installer.sh) | 69.6 KiB | `other` |
-| [uv-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-powerpc64le-unknown-linux-gnu.tar.gz) | 18.6 MiB | `native/unknown` |
-| [uv-powerpc64le-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-powerpc64le-unknown-linux-gnu.tar.gz.sha256) | 106 B | `other` |
-| [uv-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-riscv64gc-unknown-linux-gnu.tar.gz) | 16.9 MiB | `native/linux/riscv64/glibc` |
-| [uv-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 104 B | `native/linux/riscv64/glibc` |
-| [uv-riscv64gc-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-riscv64gc-unknown-linux-musl.tar.gz) | 16.8 MiB | `native/linux/riscv64/musl` |
-| [uv-riscv64gc-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-riscv64gc-unknown-linux-musl.tar.gz.sha256) | 105 B | `native/linux/riscv64/musl` |
-| [uv-s390x-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-s390x-unknown-linux-gnu.tar.gz) | 18.4 MiB | `native/unknown` |
-| [uv-s390x-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-s390x-unknown-linux-gnu.tar.gz.sha256) | 100 B | `other` |
-| [uv-x86_64-apple-darwin.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-apple-darwin.tar.gz) | 16.4 MiB | `native/darwin/x64` |
-| [uv-x86_64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
-| [uv-x86_64-pc-windows-msvc.zip](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-pc-windows-msvc.zip) | 14.8 MiB | `native/win/x64` |
-| [uv-x86_64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-pc-windows-msvc.zip.sha256) | 96 B | `native/win/x64` |
-| [uv-x86_64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-unknown-linux-gnu.tar.gz) | 16.1 MiB | `native/linux/x64/glibc` |
-| [uv-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-unknown-linux-gnu.tar.gz.sha256) | 101 B | `native/linux/x64/glibc` |
-| [uv-x86_64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-unknown-linux-musl.tar.gz) | 17.7 MiB | `native/linux/x64/musl` |
-| [uv-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.8/uv-x86_64-unknown-linux-musl.tar.gz.sha256) | 102 B | `native/linux/x64/musl` |
+| [dist-manifest.json](https://github.com/astral-sh/uv/releases/download/0.13.9/dist-manifest.json) | 45.1 KiB | `other` |
+| [sha256.sum](https://github.com/astral-sh/uv/releases/download/0.13.9/sha256.sum) | 1.9 KiB | `other` |
+| [source.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/source.tar.gz) | 8.6 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/source.tar.gz.sha256) | 81 B | `other` |
+| [uv-aarch64-apple-darwin.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-apple-darwin.tar.gz) | 13.9 MiB | `native/darwin/arm64` |
+| [uv-aarch64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-apple-darwin.tar.gz.sha256) | 97 B | `native/darwin/arm64` |
+| [uv-aarch64-pc-windows-msvc.zip](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-pc-windows-msvc.zip) | 15.0 MiB | `native/win/arm64` |
+| [uv-aarch64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-pc-windows-msvc.zip.sha256) | 97 B | `native/win/arm64` |
+| [uv-aarch64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-unknown-linux-gnu.tar.gz) | 15.4 MiB | `native/linux/arm64/glibc` |
+| [uv-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-unknown-linux-gnu.tar.gz.sha256) | 102 B | `native/linux/arm64/glibc` |
+| [uv-aarch64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-unknown-linux-musl.tar.gz) | 16.4 MiB | `native/linux/arm64/musl` |
+| [uv-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-aarch64-unknown-linux-musl.tar.gz.sha256) | 103 B | `native/linux/arm64/musl` |
+| [uv-arm-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-arm-unknown-linux-musleabihf.tar.gz) | 16.9 MiB | `native/linux/arm/musl` |
+| [uv-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-arm-unknown-linux-musleabihf.tar.gz.sha256) | 105 B | `native/linux/arm/musl` |
+| [uv-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-armv7-unknown-linux-gnueabihf.tar.gz) | 16.5 MiB | `native/linux/arm/glibc` |
+| [uv-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 106 B | `native/linux/arm/glibc` |
+| [uv-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-armv7-unknown-linux-musleabihf.tar.gz) | 16.4 MiB | `native/linux/arm/musl` |
+| [uv-armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-armv7-unknown-linux-musleabihf.tar.gz.sha256) | 107 B | `native/linux/arm/musl` |
+| [uv-i686-pc-windows-msvc.zip](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-i686-pc-windows-msvc.zip) | 15.6 MiB | `native/win/x64` |
+| [uv-i686-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-i686-pc-windows-msvc.zip.sha256) | 94 B | `native/win/x64` |
+| [uv-i686-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-i686-unknown-linux-gnu.tar.gz) | 17.5 MiB | `native/linux/x86/glibc` |
+| [uv-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-i686-unknown-linux-gnu.tar.gz.sha256) | 99 B | `native/linux/x86/glibc` |
+| [uv-i686-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-i686-unknown-linux-musl.tar.gz) | 16.7 MiB | `native/linux/x86/musl` |
+| [uv-i686-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-i686-unknown-linux-musl.tar.gz.sha256) | 100 B | `native/linux/x86/musl` |
+| [uv-installer.ps1](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-installer.ps1) | 22.7 KiB | `other` |
+| [uv-installer.sh](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-installer.sh) | 69.6 KiB | `other` |
+| [uv-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-powerpc64le-unknown-linux-gnu.tar.gz) | 18.6 MiB | `native/unknown` |
+| [uv-powerpc64le-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-powerpc64le-unknown-linux-gnu.tar.gz.sha256) | 106 B | `other` |
+| [uv-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-riscv64gc-unknown-linux-gnu.tar.gz) | 16.8 MiB | `native/linux/riscv64/glibc` |
+| [uv-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 104 B | `native/linux/riscv64/glibc` |
+| [uv-riscv64gc-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-riscv64gc-unknown-linux-musl.tar.gz) | 16.8 MiB | `native/linux/riscv64/musl` |
+| [uv-riscv64gc-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-riscv64gc-unknown-linux-musl.tar.gz.sha256) | 105 B | `native/linux/riscv64/musl` |
+| [uv-s390x-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-s390x-unknown-linux-gnu.tar.gz) | 18.3 MiB | `native/unknown` |
+| [uv-s390x-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-s390x-unknown-linux-gnu.tar.gz.sha256) | 100 B | `other` |
+| [uv-x86_64-apple-darwin.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-apple-darwin.tar.gz) | 16.6 MiB | `native/darwin/x64` |
+| [uv-x86_64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
+| [uv-x86_64-pc-windows-msvc.zip](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-pc-windows-msvc.zip) | 14.8 MiB | `native/win/x64` |
+| [uv-x86_64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-pc-windows-msvc.zip.sha256) | 96 B | `native/win/x64` |
+| [uv-x86_64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-unknown-linux-gnu.tar.gz) | 16.3 MiB | `native/linux/x64/glibc` |
+| [uv-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-unknown-linux-gnu.tar.gz.sha256) | 101 B | `native/linux/x64/glibc` |
+| [uv-x86_64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-unknown-linux-musl.tar.gz) | 17.9 MiB | `native/linux/x64/musl` |
+| [uv-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-unknown-linux-musl.tar.gz.sha256) | 102 B | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **412** distros on [repology.org](https://repology.org/project/uv). **53** are ✅ on the latest upstream release, **137** are ⚠️ on an older version.
+Reported by **419** distros on [repology.org](https://repology.org/project/uv). **37** are ✅ on the latest upstream release, **156** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.9.17` | ⚠️ outdated |
 | Debian 14 | `0.9.17` | ⚠️ outdated |
-| Arch | `0.13.8` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `0.13.8` | ✅ latest |
+| Arch | `0.13.9` | ✅ latest |
+| Homebrew | `0.13.9` | ✅ latest |
+| Fedora rawhide | `0.13.8` | ⚠️ outdated |
 | Nix unstable | `0.13.7` | ⚠️ outdated |
-| Void | `0.13.7` | ⚠️ outdated |
+| Void | `0.13.9` | ✅ latest |
 | Alpine edge | `0.13.7` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.13.7` | ⚠️ outdated |
 
@@ -127,4 +127,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:38:37Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:05:32Z._
