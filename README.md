@@ -14,14 +14,14 @@ x install uv
 
 ## Code insight
 
-Total: **654,235** lines of code across **1345** files in the top 5 languages.
+Total: **654,203** lines of code across **1346** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 495,376 | 18,090 | 50,176 | 770 |
+| Rust | 495,342 | 18,084 | 50,174 | 771 |
 | Json | 119,921 | 0 | 0 | 17 |
 | Toml | 15,304 | 875 | 2,317 | 401 |
-| Yaml | 11,807 | 503 | 1,391 | 56 |
+| Yaml | 11,809 | 503 | 1,391 | 56 |
 | Python | 8,577 | 847 | 1,546 | 101 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **654,235** lines of code across **1345** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.13.9` (2026-11-17)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 92,442 · **Forks**: 3,943 · **Open issues**: 9,472 · **Contributors**: 617
+- **Stars**: 92,479 · **Forks**: 3,929 · **Open issues**: 9,474 · **Contributors**: 617
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 11367 · **Open PRs**: 679 · **Closed issues**: 7067 · **Open issues**: 2405 · **Commits**: 11416
+- **Releases**: 332 · **Merged PRs**: 11373 · **Open PRs**: 688 · **Closed issues**: 7068 · **Open issues**: 2406 · **Commits**: 11422
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 5 | 220 | 111 | 27 | 61 | 246 |
-| last60d | 2026-09-21 | 17 | 796 | 211 | 75 | 102 | 907 |
-| 90d | 2026-08-22 | 29 | 1167 | 286 | 117 | 125 | 1417 |
-| last180d | 2026-05-24 | 52 | 2222 | 414 | 263 | 250 | 2765 |
-| 360d | 2025-11-25 | 100 | 3534 | 542 | 772 | 634 | 4327 |
-| last720d | 2024-11-30 | 100 | 6474 | 666 | 3455 | 1814 | 6453 |
+| 30d | 2026-10-22 | 5 | 198 | 116 | 25 | 58 | 256 |
+| last60d | 2026-09-22 | 17 | 784 | 220 | 73 | 104 | 917 |
+| 90d | 2026-08-23 | 29 | 1172 | 293 | 117 | 126 | 1427 |
+| last180d | 2026-05-25 | 52 | 2216 | 422 | 263 | 251 | 2775 |
+| 360d | 2025-11-26 | 99 | 3531 | 551 | 767 | 635 | 4337 |
+| last720d | 2024-12-01 | 100 | 6470 | 675 | 3453 | 1814 | 6452 |
 
 ## Release assets
 
@@ -104,14 +104,14 @@ Total: **654,235** lines of code across **1345** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **421** distros on [repology.org](https://repology.org/project/uv). **47** are ✅ on the latest upstream release, **146** are ⚠️ on an older version.
+Reported by **421** distros on [repology.org](https://repology.org/project/uv). **56** are ✅ on the latest upstream release, **137** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.9.17` | ⚠️ outdated |
 | Debian 14 | `0.9.17` | ⚠️ outdated |
 | Arch | `0.13.9` | ✅ latest |
-| Homebrew | `0.13.9` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.13.8` | ⚠️ outdated |
 | Nix unstable | `0.13.9` | ✅ latest |
 | Void | `0.13.9` | ✅ latest |
@@ -127,4 +127,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:18:16Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:47:10Z._
