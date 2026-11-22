@@ -1,399 +1,7 @@
 - repo: openindiana
   subrepo: hipster
   srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.22
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
   binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.23
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.23
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: crates_io
-  srcname: uv
-  visiblename: uv
-  version: 0.13.9
-  origversion: null
-  status: newest
-  summary: A Python package and project manager
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.21
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.21
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.21
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.22
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.22
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.23
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.24
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.24
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.24
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.28
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.28
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.28
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.29
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.29
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.29
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.31
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.31
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.31
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.32
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.32
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.32
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.12.0
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.12.0
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.12.0
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.12.2
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.12.2
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.12.2
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.12.3
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.12.3
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.12.3
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.12.4
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.12.4
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
   visiblename: uv_build
   version: 0.11.14
   origversion: null
@@ -401,91 +9,6 @@
   summary: The uv build backend
   categories:
     - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.11.15
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: alpine_3_21
-  subrepo: community
-  srcname: uv
-  binname: uv-bash-completion
-  visiblename: uv-bash-completion
-  version: 0.5.31
-  origversion: 0.5.31-r0
-  status: outdated
-  summary: Bash completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: uv
-  binname: uv-fish-completion
-  visiblename: uv-fish-completion
-  version: 0.5.31
-  origversion: 0.5.31-r0
-  status: outdated
-  summary: Fish completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 MIT
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.12.4
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.15
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: alpine_3_21
-  subrepo: community
-  srcname: uv
-  binname: uv-zsh-completion
-  visiblename: uv-zsh-completion
-  version: 0.5.31
-  origversion: 0.5.31-r0
-  status: outdated
-  summary: Zsh completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: uv
-  binname: uv-bash-completion
-  visiblename: uv-bash-completion
-  version: 0.13.7
-  origversion: 0.13.7-r0
-  status: outdated
-  summary: Bash completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
 - repo: aerynos
   srcname: uv
   visiblename: uv
@@ -545,12 +68,45 @@
     - apostnikov@gmail.com
   licenses:
     - Apache-2.0 MIT
-- repo: chocolatey
-  binname: uv
-  visiblename: uv
-  version: 0.13.8
-  origversion: null
+- repo: alpine_3_21
+  subrepo: community
+  srcname: uv
+  binname: uv-bash-completion
+  visiblename: uv-bash-completion
+  version: 0.5.31
+  origversion: 0.5.31-r0
   status: outdated
+  summary: Bash completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: uv
+  binname: uv-fish-completion
+  visiblename: uv-fish-completion
+  version: 0.5.31
+  origversion: 0.5.31-r0
+  status: outdated
+  summary: Fish completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: uv
+  binname: uv-zsh-completion
+  visiblename: uv-zsh-completion
+  version: 0.5.31
+  origversion: 0.5.31-r0
+  status: outdated
+  summary: Zsh completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: uv
@@ -564,18 +120,6 @@
     - apostnikov@gmail.com
   licenses:
     - Apache-2.0 OR MIT
-- repo: arch
-  subrepo: extra
-  srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver written in Rust
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: uv
@@ -654,6 +198,17 @@
     - apostnikov@gmail.com
   licenses:
     - Apache-2.0 OR MIT
+- repo: chimera
+  subrepo: user
+  srcname: uv
+  binname: uv-nucomp
+  visiblename: uv-nucomp
+  version: 0.13.8
+  origversion: 0.13.8-r0
+  status: outdated
+  summary: Python package installer (nu completions)
+  licenses:
+    - Apache-2.0 OR MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: uv
@@ -706,18 +261,6 @@
     - apostnikov@gmail.com
   licenses:
     - Apache-2.0 OR MIT
-- repo: artix
-  subrepo: world
-  srcname: uv
-  binname: python-uv
-  visiblename: python-uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver written in Rust - Python wrapper
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: alpine_3_23
   subrepo: community
   srcname: uv
@@ -725,6 +268,58 @@
   visiblename: uv-zsh-completion
   version: 0.10.2
   origversion: 0.10.2-r0
+  status: outdated
+  summary: Zsh completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.11.19
+  origversion: 0.11.19-r2
+  status: outdated
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: uv
+  binname: uv-bash-completion
+  visiblename: uv-bash-completion
+  version: 0.11.19
+  origversion: 0.11.19-r2
+  status: outdated
+  summary: Bash completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: uv
+  binname: uv-fish-completion
+  visiblename: uv-fish-completion
+  version: 0.11.19
+  origversion: 0.11.19-r2
+  status: outdated
+  summary: Fish completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: uv
+  binname: uv-zsh-completion
+  visiblename: uv-zsh-completion
+  version: 0.11.19
+  origversion: 0.11.19-r2
   status: outdated
   summary: Zsh completions for uv
   maintainers:
@@ -742,6 +337,17 @@
   summary: Extremely fast Python package installer and resolver, written in Rust (python module)
   maintainers:
     - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: chimera
+  subrepo: user
+  srcname: uv
+  binname: uv-pycache
+  visiblename: uv-pycache
+  version: 0.13.8
+  origversion: 0.13.8-r0
+  status: outdated
+  summary: Python package installer (Python bytecode)
   licenses:
     - Apache-2.0 OR MIT
 - repo: alpine_3_24
@@ -783,118 +389,6 @@
     - apostnikov@gmail.com
   licenses:
     - Apache-2.0 OR MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.11.19
-  origversion: 0.11.19-r2
-  status: outdated
-  summary: Extremely fast Python package installer and resolver, written in Rust
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: uv
-  binname: uv-bash-completion
-  visiblename: uv-bash-completion
-  version: 0.11.19
-  origversion: 0.11.19-r2
-  status: outdated
-  summary: Bash completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: uv
-  binname: uv-fish-completion
-  visiblename: uv-fish-completion
-  version: 0.11.19
-  origversion: 0.11.19-r2
-  status: outdated
-  summary: Fish completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: chromebrew
-  srcname: uv
-  visiblename: uv
-  version: 0.13.8
-  origversion: null
-  status: outdated
-  summary: An extremely fast Python package and project manager, written in Rust.
-  licenses:
-    - Apache-2.0, MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: uv
-  binname: uv-zsh-completion
-  visiblename: uv-zsh-completion
-  version: 0.11.19
-  origversion: 0.11.19-r2
-  status: outdated
-  summary: Zsh completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.13.7
-  origversion: 0.13.7-r0
-  status: outdated
-  summary: Extremely fast Python package installer and resolver, written in Rust
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: artix
-  subrepo: world
-  srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver written in Rust
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: uv
-  binname: uv-fish-completion
-  visiblename: uv-fish-completion
-  version: 0.13.7
-  origversion: 0.13.7-r0
-  status: outdated
-  summary: Fish completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: uv
-  binname: uv-zsh-completion
-  visiblename: uv-zsh-completion
-  version: 0.13.7
-  origversion: 0.13.7-r0
-  status: outdated
-  summary: Zsh completions for uv
-  maintainers:
-    - apostnikov@gmail.com
-  licenses:
-    - Apache-2.0 OR MIT
 - repo: alpine_edge
   subrepo: community
   srcname: uv
@@ -917,6 +411,58 @@
   origversion: 0.13.7-r0
   status: outdated
   summary: Precompiled Python bytecode for py3-uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.13.7
+  origversion: 0.13.7-r0
+  status: outdated
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: uv
+  binname: uv-bash-completion
+  visiblename: uv-bash-completion
+  version: 0.13.7
+  origversion: 0.13.7-r0
+  status: outdated
+  summary: Bash completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: uv
+  binname: uv-fish-completion
+  visiblename: uv-fish-completion
+  version: 0.13.7
+  origversion: 0.13.7-r0
+  status: outdated
+  summary: Fish completions for uv
+  maintainers:
+    - apostnikov@gmail.com
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: uv
+  binname: uv-zsh-completion
+  visiblename: uv-zsh-completion
+  version: 0.13.7
+  origversion: 0.13.7-r0
+  status: outdated
+  summary: Zsh completions for uv
   maintainers:
     - apostnikov@gmail.com
   licenses:
@@ -1023,15 +569,39 @@
   licenses:
     - MIT
     - Apache-2.0
-- repo: manjaro_testing
+- repo: arch
   subrepo: extra
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver written in Rust
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: artix
+  subrepo: world
   srcname: uv
   binname: python-uv
   visiblename: python-uv
-  version: 0.13.8
-  origversion: 0.13.8-1
-  status: outdated
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
   summary: An extremely fast Python package installer and resolver written in Rust - Python wrapper
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: artix
+  subrepo: world
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver written in Rust
   licenses:
     - MIT
     - Apache-2.0
@@ -1094,28 +664,6 @@
 - repo: chimera
   subrepo: user
   srcname: uv
-  binname: uv-nucomp
-  visiblename: uv-nucomp
-  version: 0.13.8
-  origversion: 0.13.8-r0
-  status: outdated
-  summary: Python package installer (nu completions)
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: chimera
-  subrepo: user
-  srcname: uv
-  binname: uv-pycache
-  visiblename: uv-pycache
-  version: 0.13.8
-  origversion: 0.13.8-r0
-  status: outdated
-  summary: Python package installer (Python bytecode)
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: chimera
-  subrepo: user
-  srcname: uv
   binname: uv-zshcomp
   visiblename: uv-zshcomp
   version: 0.13.8
@@ -1124,6 +672,28 @@
   summary: Python package installer (zsh completions)
   licenses:
     - Apache-2.0 OR MIT
+- repo: chocolatey
+  binname: uv
+  visiblename: uv
+  version: 0.13.8
+  origversion: null
+  status: outdated
+- repo: chromebrew
+  srcname: uv
+  visiblename: uv
+  version: 0.13.8
+  origversion: null
+  status: outdated
+  summary: An extremely fast Python package and project manager, written in Rust.
+  licenses:
+    - Apache-2.0, MIT
+- repo: crates_io
+  srcname: uv
+  visiblename: uv
+  version: 0.13.9
+  origversion: null
+  status: newest
+  summary: A Python package and project manager
 - repo: crux_38
   subrepo: contrib
   srcname: python3-uv-build
@@ -1159,33 +729,6 @@
     - merkys@debian.org
   categories:
     - python
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: uv
-  binnames:
-    - python3-uv-build
-  visiblename: uv
-  version: 0.9.17
-  origversion: 0.9.17+ds1-7
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - antonin@delpeuch.eu
-    - merkys@debian.org
-  categories:
-    - python
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: uv
-  binname: python-uv-build
-  visiblename: python-uv-build
-  version: 0.13.8
-  origversion: 0.13.8-1
-  status: outdated
-  summary: An extremely fast Python package installer and resolver written in Rust - Python build backend
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: debian_unstable
   subrepo: sid/main
   srcname: uv
@@ -1271,6 +814,22 @@
     - fallback-mnt-exherbo@repology
   categories:
     - sys-apps
+- repo: nix_stable_25_11
+  srcname: python312Packages.uv
+  visiblename: python3.12-uv
+  version: 0.9.30
+  origversion: null
+  status: outdated
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - benjamin.sparks@protonmail.com
+    - gaetan@glepage.com
+    - prc.zhao@outlook.com
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - python312Packages
 - repo: fedora_39
   subrepo: updates
   srcname: uv
@@ -1338,18 +897,6 @@
     - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause) AND MPL-2.0
   categories:
     - Unspecified
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: uv
-  binname: python-uv-build
-  visiblename: python-uv-build
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver written in Rust - Python build backend
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: fedora_41
   subrepo: updates
   srcname: uv
@@ -1400,6 +947,41 @@
     - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause) AND MPL-2.0
   categories:
     - Unspecified
+- repo: msys2_clangarm64
+  srcname: mingw-w64-uv
+  binname: mingw-w64-clang-aarch64-uv
+  visiblename: mingw-w64-clang-aarch64-uv
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver, written in Rust (mingw-w64)
+  licenses:
+    - spdx:Apache-2.0 OR MIT
+- repo: gentoo
+  srcname: dev-python/uv
+  visiblename: dev-python/uv
+  version: 0.13.4
+  origversion: 0.13.4-r1
+  status: legacy
+  summary: A Python package installer and resolver, written in Rust
+  maintainers:
+    - python@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD CC0-1.0 CDLA-Permissive-2.0 ISC MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 ZLIB openssl'
+  categories:
+    - dev-python
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: uv
+  binname: python-uv-build
+  visiblename: python-uv-build
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver written in Rust - Python build backend
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: fedora_42
   subrepo: updates
   srcname: uv
@@ -1485,22 +1067,6 @@
     - Unspecified
 - repo: fedora_44
   subrepo: release
-  srcname: python-uv-build
-  binnames:
-    - python3-uv-build
-    - python-uv-build-debuginfo
-    - python-uv-build-debugsource
-  visiblename: python-uv-build
-  version: 0.10.12
-  origversion: 0.10.12-1.fc44
-  status: legacy
-  summary: The uv build backend
-  licenses:
-    - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause) AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_44
-  subrepo: release
   srcname: uv
   binnames:
     - uv
@@ -1516,13 +1082,6 @@
     - 0BSD AND (0BSD OR Apache-2.0 OR MIT) AND Apache-2.0 AND (Apache-2.0 OR BSD-2-Clause) AND (Apache-2.0 OR BSD-2-Clause OR MIT) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 OR MIT OR Zlib) AND (Apache-2.0 OR MIT-0) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-3-Clause AND CC0-1.0 AND CDLA-Permissive-2.0 AND ISC AND (LGPL-3.0-or-later OR MIT) AND (LGPL-3.0-or-later OR MPL-2.0) AND MIT AND MIT-0 AND (MIT OR Unlicense) AND MPL-2.0 AND Unicode-3.0 AND Unicode-DFS-2016 AND Zlib AND bzip2-1.0.6
   categories:
     - Unspecified
-- repo: homebrew
-  srcname: uv
-  visiblename: uv
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Extremely fast Python package installer and resolver, written in Rust
 - repo: fedora_44
   subrepo: updates
   srcname: python-uv-build
@@ -1539,6 +1098,20 @@
     - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause) AND MPL-2.0
   categories:
     - Unspecified
+- repo: nix_stable_25_11
+  srcname: uv
+  visiblename: uv
+  version: 0.9.30
+  origversion: null
+  status: outdated
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - benjamin.sparks@protonmail.com
+    - gaetan@glepage.com
+    - prc.zhao@outlook.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: fedora_44
   subrepo: updates
   srcname: uv
@@ -1556,21 +1129,20 @@
     - (0BSD OR Apache-2.0 OR MIT) AND Apache-2.0 AND (Apache-2.0 OR Apache-2.0 WITH LLVM-exception OR MIT) AND (Apache-2.0 OR Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 OR BSD-2-Clause) AND (Apache-2.0 OR BSD-2-Clause OR MIT) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 OR MIT OR Zlib) AND (Apache-2.0 OR MIT-0) AND (Apache-2.0 WITH LLVM-exception) AND BSD-3-Clause AND CC0-1.0 AND CDLA-Permissive-2.0 AND ISC AND (LGPL-3.0-or-later OR MPL-2.0) AND MIT AND (MIT OR Unlicense) AND MPL-2.0 AND Unicode-3.0 AND Unicode-DFS-2016 AND Zlib
   categories:
     - Unspecified
-- repo: fedora_45
+- repo: fedora_44
   subrepo: release
-  srcname: uv
+  srcname: python-uv-build
   binnames:
-    - uv
-    - python3-uv
-    - uv-debuginfo
-    - uv-debugsource
-  visiblename: uv
-  version: 0.12.19
-  origversion: 0.12.19-1.fc45
+    - python3-uv-build
+    - python-uv-build-debuginfo
+    - python-uv-build-debugsource
+  visiblename: python-uv-build
+  version: 0.10.12
+  origversion: 0.10.12-1.fc44
   status: legacy
-  summary: An extremely fast Python package installer and resolver, written in Rust
+  summary: The uv build backend
   licenses:
-    - 0BSD AND (0BSD OR Apache-2.0 OR MIT) AND Apache-2.0 AND (Apache-2.0 OR Apache-2.0 WITH LLVM-exception OR MIT) AND (Apache-2.0 OR Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 OR BSD-2-Clause) AND (Apache-2.0 OR BSD-2-Clause OR MIT) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 OR MIT OR Zlib) AND (Apache-2.0 OR MIT-0) AND (Apache-2.0 WITH LLVM-exception) AND BSD-3-Clause AND CC0-1.0 AND CDLA-Permissive-2.0 AND ISC AND (LGPL-3.0-or-later OR MIT) AND (LGPL-3.0-or-later OR MPL-2.0) AND MIT AND MIT-0 AND (MIT OR Unlicense) AND MPL-2.0 AND Unicode-3.0 AND Unicode-DFS-2016 AND Zlib
+    - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause) AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_45
@@ -1589,18 +1161,34 @@
     - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause) AND MPL-2.0
   categories:
     - Unspecified
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.13
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: fedora_45
+  subrepo: release
   srcname: uv
-  binname: python-uv
-  visiblename: python-uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver written in Rust - Python wrapper
+  binnames:
+    - uv
+    - python3-uv
+    - uv-debuginfo
+    - uv-debugsource
+  visiblename: uv
+  version: 0.12.19
+  origversion: 0.12.19-1.fc45
+  status: legacy
+  summary: An extremely fast Python package installer and resolver, written in Rust
   licenses:
-    - MIT
-    - Apache-2.0
+    - 0BSD AND (0BSD OR Apache-2.0 OR MIT) AND Apache-2.0 AND (Apache-2.0 OR Apache-2.0 WITH LLVM-exception OR MIT) AND (Apache-2.0 OR Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 OR BSD-2-Clause) AND (Apache-2.0 OR BSD-2-Clause OR MIT) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 OR MIT OR Zlib) AND (Apache-2.0 OR MIT-0) AND (Apache-2.0 WITH LLVM-exception) AND BSD-3-Clause AND CC0-1.0 AND CDLA-Permissive-2.0 AND ISC AND (LGPL-3.0-or-later OR MIT) AND (LGPL-3.0-or-later OR MPL-2.0) AND MIT AND MIT-0 AND (MIT OR Unlicense) AND MPL-2.0 AND Unicode-3.0 AND Unicode-DFS-2016 AND Zlib
+  categories:
+    - Unspecified
 - repo: fedora_45
   subrepo: updates
   srcname: python-uv-build
@@ -1636,22 +1224,6 @@
     - Unspecified
 - repo: fedora_rawhide
   subrepo: development
-  srcname: python-uv-build
-  binnames:
-    - python3-uv-build
-    - python-uv-build-debuginfo
-    - python-uv-build-debugsource
-  visiblename: python-uv-build
-  version: 0.13.8
-  origversion: 0.13.8-1.fc46
-  status: outdated
-  summary: The uv build backend
-  licenses:
-    - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause)
-  categories:
-    - Unspecified
-- repo: fedora_rawhide
-  subrepo: development
   srcname: uv
   binnames:
     - uv
@@ -1659,12 +1231,28 @@
     - uv-debuginfo
     - uv-debugsource
   visiblename: uv
-  version: 0.13.8
-  origversion: 0.13.8-1.fc46
-  status: outdated
+  version: 0.13.9
+  origversion: 0.13.9-2.fc46
+  status: newest
   summary: An extremely fast Python package installer and resolver, written in Rust
   licenses:
     - (Apache-2.0 OR MIT) AND Apache-2.0 AND BSD-3-Clause AND MIT AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause-Patent
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: python-uv-build
+  binnames:
+    - python3-uv-build
+    - python-uv-build-debuginfo
+    - python-uv-build-debugsource
+  visiblename: python-uv-build
+  version: 0.13.9
+  origversion: 0.13.9-1.fc46
+  status: newest
+  summary: The uv build backend
+  licenses:
+    - (Apache-2.0 OR MIT) AND (Apache-2.0 OR BSD-2-Clause)
   categories:
     - Unspecified
 - repo: freebsd
@@ -1728,29 +1316,6 @@
     - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver written in Rust
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build
-  visiblename: uv_build
-  version: 0.12.5
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
 - repo: gentoo
   srcname: dev-python/uv
   visiblename: dev-python/uv
@@ -1803,17 +1368,17 @@
     - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
-- repo: gentoo
-  srcname: dev-python/uv
-  visiblename: dev-python/uv
-  version: 0.13.4
-  origversion: 0.13.4-r1
+- repo: liguros_stable
+  srcname: dev-python/uv-build
+  visiblename: dev-python/uv-build
+  version: 0.8.2
+  origversion: null
   status: legacy
-  summary: A Python package installer and resolver, written in Rust
+  summary: PEP517 uv build backend
   maintainers:
     - python@gentoo.org
   licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD CC0-1.0 CDLA-Permissive-2.0 ISC MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 ZLIB openssl'
+    - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
 - repo: gentoo
@@ -1855,20 +1420,6 @@
     - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
-- repo: nix_stable_25_11
-  srcname: python313Packages.uv-build
-  visiblename: python3.13-uv-build
-  version: 0.9.7
-  origversion: null
-  status: outdated
-  summary: Minimal build backend for uv
-  maintainers:
-    - benjamin.sparks@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - python313Packages
 - repo: gentoo
   srcname: dev-python/uv
   visiblename: dev-python/uv
@@ -1921,6 +1472,21 @@
     - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
+- repo: nix_stable_25_05
+  srcname: python312Packages.uv
+  visiblename: python3.12-uv
+  version: 0.7.22
+  origversion: null
+  status: outdated
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - gaetan@glepage.com
+    - prc.zhao@outlook.com
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - python312Packages
 - repo: gentoo
   srcname: dev-python/uv
   visiblename: dev-python/uv
@@ -1970,6 +1536,13 @@
   origversion: null
   status: newest
   summary: Extremely fast Python package installer and resolver, written in Rust
+- repo: homebrew
+  srcname: uv
+  visiblename: uv
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Extremely fast Python package installer and resolver, written in Rust
 - repo: kali_rolling
   subrepo: main
   srcname: uv
@@ -1985,17 +1558,6 @@
     - merkys@debian.org
   categories:
     - python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.13
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
 - repo: liguros_stable
   srcname: dev-python/uv-build
   visiblename: dev-python/uv-build
@@ -2048,19 +1610,32 @@
     - '|| ( Apache-2.0 MIT ) 0BSD Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD CDLA-Permissive-2.0 ISC MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 ZLIB openssl'
   categories:
     - dev-python
-- repo: liguros_stable
-  srcname: dev-python/uv-build
-  visiblename: dev-python/uv-build
-  version: 0.8.2
+- repo: nix_stable_25_05
+  srcname: python312Packages.uv-build
+  visiblename: python3.12-uv-build
+  version: 0.7.22
   origversion: null
-  status: legacy
-  summary: PEP517 uv build backend
+  status: outdated
+  summary: A minimal build backend for uv
   maintainers:
-    - python@gentoo.org
+    - benjamin.sparks@protonmail.com
   licenses:
-    - '|| ( Apache-2.0 MIT )'
+    - Apache-2.0
+    - MIT
   categories:
-    - dev-python
+    - python312Packages
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: uv
+  binname: python-uv
+  visiblename: python-uv
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver written in Rust - Python wrapper
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: liguros_stable
   srcname: dev-python/uv
   visiblename: dev-python/uv
@@ -2204,19 +1779,6 @@
     - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
-- repo: nix_stable_25_05
-  srcname: uv
-  visiblename: uv
-  version: 0.7.22
-  origversion: null
-  status: outdated
-  summary: Extremely fast Python package installer and resolver, written in Rust
-  maintainers:
-    - gaetan@glepage.com
-    - prc.zhao@outlook.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: liguros_develop
   srcname: dev-python/uv
   visiblename: dev-python/uv
@@ -2295,6 +1857,18 @@
     - '|| ( Apache-2.0 MIT )'
   categories:
     - dev-python
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver written in Rust
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: liguros_develop
   srcname: dev-python/uv
   visiblename: dev-python/uv
@@ -2362,17 +1936,6 @@
     - MIT
   categories:
     - devel
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.13
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
 - repo: macports
   srcname: python/py-uv-build
   binname: py-uv-build
@@ -2453,6 +2016,21 @@
     - Apache-2
   categories:
     - python
+- repo: nix_stable_25_05
+  srcname: python313Packages.uv
+  visiblename: python3.13-uv
+  version: 0.7.22
+  origversion: null
+  status: outdated
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - gaetan@glepage.com
+    - prc.zhao@outlook.com
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - python313Packages
 - repo: macports
   srcname: python/py-uv-build
   binname: py314-uv-build
@@ -2502,6 +2080,18 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.12.23
+  origversion: 0.12.23-1
+  status: outdated
+  summary: An extremely fast Python package installer and resolver written in Rust
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: uv
   binname: python-uv
   visiblename: python-uv
   version: 0.12.23
@@ -2523,15 +2113,27 @@
   licenses:
     - MIT
     - Apache-2.0
-- repo: manjaro_stable
+- repo: manjaro_testing
   subrepo: extra
   srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.12.23
-  origversion: 0.12.23-1
+  binname: python-uv-build
+  visiblename: python-uv-build
+  version: 0.13.8
+  origversion: 0.13.8-1
   status: outdated
-  summary: An extremely fast Python package installer and resolver written in Rust
+  summary: An extremely fast Python package installer and resolver written in Rust - Python build backend
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: uv
+  binname: python-uv
+  visiblename: python-uv
+  version: 0.13.8
+  origversion: 0.13.8-1
+  status: outdated
+  summary: An extremely fast Python package installer and resolver written in Rust - Python wrapper
   licenses:
     - MIT
     - Apache-2.0
@@ -2547,10 +2149,21 @@
   licenses:
     - MIT
     - Apache-2.0
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.13
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
 - repo: msys2_clang64
   srcname: mingw-w64-uv
-  binname: mingw-w64-clang-x86_64-python-uv-build
-  visiblename: mingw-w64-clang-x86_64-python-uv-build
+  binname: mingw-w64-clang-x86_64-uv
+  visiblename: mingw-w64-clang-x86_64-uv
   version: 0.13.9
   origversion: 0.13.9-1
   status: newest
@@ -2569,14 +2182,28 @@
     - spdx:Apache-2.0 OR MIT
 - repo: msys2_clang64
   srcname: mingw-w64-uv
-  binname: mingw-w64-clang-x86_64-uv
-  visiblename: mingw-w64-clang-x86_64-uv
+  binname: mingw-w64-clang-x86_64-python-uv-build
+  visiblename: mingw-w64-clang-x86_64-python-uv-build
   version: 0.13.9
   origversion: 0.13.9-1
   status: newest
   summary: An extremely fast Python package installer and resolver, written in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 OR MIT
+- repo: nix_stable_25_05
+  srcname: python313Packages.uv-build
+  visiblename: python3.13-uv-build
+  version: 0.7.22
+  origversion: null
+  status: outdated
+  summary: A minimal build backend for uv
+  maintainers:
+    - benjamin.sparks@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - python313Packages
 - repo: msys2_clangarm64
   srcname: mingw-w64-uv
   binname: mingw-w64-clang-aarch64-python-uv-build
@@ -2591,16 +2218,6 @@
   srcname: mingw-w64-uv
   binname: mingw-w64-clang-aarch64-python-uv
   visiblename: mingw-w64-clang-aarch64-python-uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver, written in Rust (mingw-w64)
-  licenses:
-    - spdx:Apache-2.0 OR MIT
-- repo: msys2_clangarm64
-  srcname: mingw-w64-uv
-  binname: mingw-w64-clang-aarch64-uv
-  visiblename: mingw-w64-clang-aarch64-uv
   version: 0.13.9
   origversion: 0.13.9-1
   status: newest
@@ -2653,16 +2270,6 @@
     - spdx:Apache-2.0 OR MIT
 - repo: msys2_ucrt64
   srcname: mingw-w64-uv
-  binname: mingw-w64-ucrt-x86_64-python-uv
-  visiblename: mingw-w64-ucrt-x86_64-python-uv
-  version: 0.13.9
-  origversion: 0.13.9-1
-  status: newest
-  summary: An extremely fast Python package installer and resolver, written in Rust (mingw-w64)
-  licenses:
-    - spdx:Apache-2.0 OR MIT
-- repo: msys2_ucrt64
-  srcname: mingw-w64-uv
   binname: mingw-w64-ucrt-x86_64-python-uv-build
   visiblename: mingw-w64-ucrt-x86_64-python-uv-build
   version: 0.13.9
@@ -2675,6 +2282,16 @@
   srcname: mingw-w64-uv
   binname: mingw-w64-ucrt-x86_64-uv
   visiblename: mingw-w64-ucrt-x86_64-uv
+  version: 0.13.9
+  origversion: 0.13.9-1
+  status: newest
+  summary: An extremely fast Python package installer and resolver, written in Rust (mingw-w64)
+  licenses:
+    - spdx:Apache-2.0 OR MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-uv
+  binname: mingw-w64-ucrt-x86_64-python-uv
+  visiblename: mingw-w64-ucrt-x86_64-python-uv
   version: 0.13.9
   origversion: 0.13.9-1
   status: newest
@@ -2705,100 +2322,14 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.20
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
 - repo: nix_stable_25_05
-  srcname: python312Packages.uv
-  visiblename: python3.12-uv
-  version: 0.7.22
-  origversion: null
-  status: outdated
-  summary: Extremely fast Python package installer and resolver, written in Rust
-  maintainers:
-    - gaetan@glepage.com
-    - prc.zhao@outlook.com
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - python312Packages
-- repo: nix_stable_25_05
-  srcname: python312Packages.uv-build
-  visiblename: python3.12-uv-build
-  version: 0.7.22
-  origversion: null
-  status: outdated
-  summary: A minimal build backend for uv
-  maintainers:
-    - benjamin.sparks@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - python312Packages
-- repo: nix_stable_25_05
-  srcname: python313Packages.uv
-  visiblename: python3.13-uv
-  version: 0.7.22
-  origversion: null
-  status: outdated
-  summary: Extremely fast Python package installer and resolver, written in Rust
-  maintainers:
-    - gaetan@glepage.com
-    - prc.zhao@outlook.com
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_stable_25_05
-  srcname: python313Packages.uv-build
-  visiblename: python3.13-uv-build
-  version: 0.7.22
-  origversion: null
-  status: outdated
-  summary: A minimal build backend for uv
-  maintainers:
-    - benjamin.sparks@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_stable_25_11
-  srcname: python312Packages.uv
-  visiblename: python3.12-uv
-  version: 0.9.30
-  origversion: null
-  status: outdated
-  summary: Extremely fast Python package installer and resolver, written in Rust
-  maintainers:
-    - benjamin.sparks@protonmail.com
-    - gaetan@glepage.com
-    - prc.zhao@outlook.com
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - python312Packages
-- repo: nix_stable_25_11
   srcname: uv
   visiblename: uv
-  version: 0.9.30
+  version: 0.7.22
   origversion: null
   status: outdated
   summary: Extremely fast Python package installer and resolver, written in Rust
   maintainers:
-    - benjamin.sparks@protonmail.com
     - gaetan@glepage.com
     - prc.zhao@outlook.com
   licenses:
@@ -2834,19 +2365,33 @@
     - MIT
   categories:
     - python312Packages
+- repo: nix_stable_25_11
+  srcname: python313Packages.uv-build
+  visiblename: python3.13-uv-build
+  version: 0.9.7
+  origversion: null
+  status: outdated
+  summary: Minimal build backend for uv
+  maintainers:
+    - benjamin.sparks@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - python313Packages
 - repo: openindiana
   subrepo: hipster
   srcname: uv_build
-  binname: library/python/uv-build
+  binname: library/python/uv-build-39
   visiblename: uv_build
-  version: 0.11.14
+  version: 0.11.13
   origversion: null
   status: legacy
   summary: The uv build backend
   categories:
     - Development/Python
 - repo: nix_stable_26_05
-  srcname: python313Packages.uv
+  srcname: uv
   visiblename: uv
   version: 0.11.21
   origversion: null
@@ -2860,8 +2405,6 @@
   licenses:
     - Apache-2.0
     - MIT
-  categories:
-    - python313Packages
 - repo: nix_stable_26_05
   srcname: python314Packages.uv
   visiblename: uv
@@ -2880,7 +2423,7 @@
   categories:
     - python314Packages
 - repo: nix_stable_26_05
-  srcname: uv
+  srcname: python313Packages.uv
   visiblename: uv
   version: 0.11.21
   origversion: null
@@ -2891,18 +2434,6 @@
     - gaetan@glepage.com
     - prc.zhao@outlook.com
     - prinn.dev@pm.me
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_26_05
-  srcname: python313Packages.uv-build
-  visiblename: uv-build
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Minimal build backend for uv
-  maintainers:
-    - benjamin.sparks@protonmail.com
   licenses:
     - Apache-2.0
     - MIT
@@ -2922,21 +2453,20 @@
     - MIT
   categories:
     - python314Packages
-- repo: nix_unstable
-  srcname: uv
-  visiblename: uv
-  version: 0.13.9
+- repo: nix_stable_26_05
+  srcname: python313Packages.uv-build
+  visiblename: uv-build
+  version: 0.10.0
   origversion: null
-  status: newest
-  summary: Extremely fast Python package installer and resolver, written in Rust
+  status: outdated
+  summary: Minimal build backend for uv
   maintainers:
     - benjamin.sparks@protonmail.com
-    - gaetan@glepage.com
-    - prc.zhao@outlook.com
-    - prinn.dev@pm.me
   licenses:
     - Apache-2.0
     - MIT
+  categories:
+    - python313Packages
 - repo: nix_unstable
   srcname: python313Packages.uv
   visiblename: uv
@@ -2954,6 +2484,32 @@
     - MIT
   categories:
     - python313Packages
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.12
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: nix_unstable
+  srcname: uv
+  visiblename: uv
+  version: 0.13.9
+  origversion: null
+  status: newest
+  summary: Extremely fast Python package installer and resolver, written in Rust
+  maintainers:
+    - benjamin.sparks@protonmail.com
+    - gaetan@glepage.com
+    - prc.zhao@outlook.com
+    - prinn.dev@pm.me
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: nix_unstable
   srcname: python314Packages.uv
   visiblename: uv
@@ -2971,28 +2527,6 @@
     - MIT
   categories:
     - python314Packages
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.14
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
-  binname: library/python/uv-build-39
-  visiblename: uv_build
-  version: 0.11.20
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
 - repo: nix_unstable
   srcname: python313Packages.uv-build
   visiblename: uv-build
@@ -3146,17 +2680,6 @@
 - repo: openindiana
   subrepo: hipster
   srcname: uv_build
-  binname: library/python/uv-build-314
-  visiblename: uv_build
-  version: 0.11.12
-  origversion: null
-  status: legacy
-  summary: The uv build backend
-  categories:
-    - Development/Python
-- repo: openindiana
-  subrepo: hipster
-  srcname: uv_build
   binname: library/python/uv-build-39
   visiblename: uv_build
   version: 0.11.12
@@ -3168,9 +2691,42 @@
 - repo: openindiana
   subrepo: hipster
   srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.14
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.14
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
   binname: library/python/uv-build
   visiblename: uv_build
-  version: 0.11.13
+  version: 0.11.15
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.15
   origversion: null
   status: legacy
   summary: The uv build backend
@@ -3325,6 +2881,435 @@
   binname: library/python/uv-build
   visiblename: uv_build
   version: 0.11.20
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.20
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.20
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.21
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.21
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.21
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.22
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.22
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.22
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.23
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.23
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.23
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.24
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.24
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.24
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.28
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.28
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.28
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.29
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.29
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.29
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.31
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.31
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.31
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.11.32
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.11.32
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.11.32
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.12.0
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.12.0
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.12.0
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.12.2
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.12.2
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.12.2
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.12.3
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.12.3
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.12.3
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.12.4
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-314
+  visiblename: uv_build
+  version: 0.12.4
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build-39
+  visiblename: uv_build
+  version: 0.12.4
+  origversion: null
+  status: legacy
+  summary: The uv build backend
+  categories:
+    - Development/Python
+- repo: openindiana
+  subrepo: hipster
+  srcname: uv_build
+  binname: library/python/uv-build
+  visiblename: uv_build
+  version: 0.12.5
   origversion: null
   status: legacy
   summary: The uv build backend
@@ -3645,16 +3630,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: termux
-  srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.13.9
-  origversion: null
-  status: newest
-  summary: An extremely fast Python package installer and resolver, written in Rust.
-  maintainers:
-    - termux@github
 - repo: pkgsrc_2026_2
   srcname: devel/py-uv-build
   binname: py313-uv-build
@@ -3703,6 +3678,15 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
+- repo: wakemeops
+  subrepo: dev
+  binname: uv
+  visiblename: uv
+  version: 0.12.6
+  origversion: 0.12.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: pkgsrc_current
   srcname: devel/py-uv-build
   binname: py314-uv-build
@@ -3728,14 +3712,6 @@
   origversion: 0.11.17-1
   status: outdated
 - repo: pypi
-  srcname: uv-build
-  binname: uv-build
-  visiblename: uv-build
-  version: 0.13.9
-  origversion: null
-  status: newest
-  summary: The uv build backend
-- repo: pypi
   srcname: uv
   binname: uv
   visiblename: uv
@@ -3743,6 +3719,14 @@
   origversion: null
   status: outdated
   summary: An extremely fast Python package and project manager, written in Rust.
+- repo: pypi
+  srcname: uv-build
+  binname: uv-build
+  visiblename: uv-build
+  version: 0.13.9
+  origversion: null
+  status: newest
+  summary: The uv build backend
 - repo: raspbian_testing
   subrepo: main
   srcname: uv
@@ -3778,22 +3762,6 @@
     - Development/Python
 - repo: rosa_13
   subrepo: contrib/release
-  srcname: python-uv-build
-  binnames:
-    - python3-uv-build
-  visiblename: python-uv-build
-  version: 0.9.26
-  origversion: 0.9.26-1
-  status: outdated
-  summary: The uv build backend
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - Apache-2.0
-  categories:
-    - Development/Python
-- repo: rosa_13
-  subrepo: contrib/release
   srcname: uv
   binnames:
     - uv
@@ -3808,6 +3776,22 @@
     - a.proklov@rosa.ru
   licenses:
     - ASL 2.0 OR MIT
+  categories:
+    - Development/Python
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: python-uv-build
+  binnames:
+    - python3-uv-build
+  visiblename: python-uv-build
+  version: 0.9.26
+  origversion: 0.9.26-1
+  status: outdated
+  summary: The uv build backend
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - Apache-2.0
   categories:
     - Development/Python
 - repo: scoop
@@ -3841,36 +3825,6 @@
     - python
 - repo: solus
   srcname: uv
-  binname: uv
-  visiblename: uv
-  version: 0.13.5
-  origversion: null
-  status: outdated
-  summary: An extremely fast Python package and project manager, written in Rust
-  maintainers:
-    - david@davidjharder.ca
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - programming.tools
-- repo: solus
-  srcname: uv
-  binname: uv-dbginfo
-  visiblename: uv-dbginfo
-  version: 0.13.5
-  origversion: null
-  status: outdated
-  summary: Debug symbols for uv
-  maintainers:
-    - david@davidjharder.ca
-  licenses:
-    - Apache-2.0
-    - MIT
-  categories:
-    - debug
-- repo: solus
-  srcname: uv
   binname: python-uv
   visiblename: python-uv
   version: 0.13.5
@@ -3899,6 +3853,36 @@
     - MIT
   categories:
     - programming.python
+- repo: solus
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.13.5
+  origversion: null
+  status: outdated
+  summary: An extremely fast Python package and project manager, written in Rust
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - programming.tools
+- repo: solus
+  srcname: uv
+  binname: uv-dbginfo
+  visiblename: uv-dbginfo
+  version: 0.13.5
+  origversion: null
+  status: outdated
+  summary: Debug symbols for uv
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+    - MIT
+  categories:
+    - debug
 - repo: spack
   srcname: py-uv
   visiblename: py-uv
@@ -3947,6 +3931,16 @@
     - MIT
   categories:
     - extra/development
+- repo: termux
+  srcname: uv
+  binname: uv
+  visiblename: uv
+  version: 0.13.9
+  origversion: null
+  status: newest
+  summary: An extremely fast Python package installer and resolver, written in Rust.
+  maintainers:
+    - termux@github
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: uv
@@ -4268,15 +4262,6 @@
   visiblename: uv
   version: 0.12.7
   origversion: 0.12.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: uv
-  visiblename: uv
-  version: 0.12.6
-  origversion: 0.12.6-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -4936,5 +4921,5 @@
   status: newest
   summary: Python package and project manager
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
     - MIT License
