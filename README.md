@@ -38,7 +38,7 @@ Total: **656,960** lines of code across **1347** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 92,748 · **Forks**: 3,954 · **Open issues**: 9,486 · **Contributors**: 618
+- **Stars**: 92,683 · **Forks**: 3,971 · **Open issues**: 9,486 · **Contributors**: 618
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **656,960** lines of code across **1347** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 4 | 171 | 108 | 23 | 51 | 204 |
-| last60d | 2026-09-28 | 16 | 745 | 210 | 71 | 100 | 886 |
-| 90d | 2026-08-29 | 28 | 1164 | 284 | 116 | 126 | 1406 |
-| last180d | 2026-05-31 | 52 | 2229 | 427 | 261 | 247 | 2775 |
-| 360d | 2025-12-02 | 98 | 3533 | 557 | 749 | 630 | 4321 |
-| last720d | 2024-12-07 | 100 | 6445 | 681 | 3402 | 1800 | 6414 |
+| 30d | 2026-10-29 | 4 | 165 | 101 | 21 | 50 | 204 |
+| last60d | 2026-09-29 | 15 | 736 | 207 | 71 | 100 | 886 |
+| 90d | 2026-08-30 | 28 | 1163 | 282 | 115 | 126 | 1406 |
+| last180d | 2026-06-01 | 52 | 2221 | 425 | 258 | 245 | 2775 |
+| 360d | 2025-12-03 | 98 | 3515 | 555 | 744 | 623 | 4321 |
+| last720d | 2024-12-08 | 100 | 6438 | 681 | 3397 | 1799 | 6409 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for uv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:36:46Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:28:26Z._
